@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wendi Ding &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/author/wendi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Aug 2019 19:38:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>Wendi Ding &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Donation Personas: The Experiment Design</title>
+		<link>/2018/09/persona-experiment-design/</link>
+		
+		<dc:creator><![CDATA[Wendi Ding]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2018 19:47:45 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=1028</guid>
+
+					<description><![CDATA[[This is the 3rd blog post on BizLab Fellow Wendi Ding&#8217;s project, the Persona Experiment.] With three personas in hand, we designed an experiment to test the effectiveness of communicating to WBUR&#8217;s audience by persona. We wanted to determine two things with an experiment: know if the personas reflect unique populations in our listener audience [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>[This is the 3rd blog post on BizLab Fellow Wendi Ding&#8217;s project, the Persona Experiment.]</em></p>
+<p>With <a href="/2018/08/wbur-personas/">three personas</a> in hand, we designed an experiment to test the effectiveness of communicating to WBUR&#8217;s audience by persona. We wanted to determine two things with an experiment: know if the personas reflect unique populations in our listener audience and understand, if we communicated to users in the language and perspective of their persona, that they will engage more with us. As a reminder, the three personas are the <a href="/wp-content/uploads/2018/08/AL.png">Aspirational Learner</a>, the <a href="/wp-content/uploads/2018/08/WC.png">World Citizen</a>, and the <a href="/wp-content/uploads/2018/08/LL.png">Lifelong Listener</a> which represent why someone listens to WBUR: either to get smarter, to track the news, or to feel an emotional connection.</p>
+<p>The structure of the experiment was to find users loyal to WBUR via Facebook Ads, ask them a question to have them self-select their persona, and then take them through a series of interactive messages explaining why they should donate. If everything worked perfectly, users who got the correct persona messaging would complete a donation.</p>
+<p><a href="/wp-content/uploads/2018/09/FB_ad_persona1.png"><img loading="lazy" class="aligncenter wp-image-1157" src="/wp-content/uploads/2018/09/FB_ad_persona1.png" alt="" width="271" height="371" srcset="/wp-content/uploads/2018/09/FB_ad_persona1.png 634w, /wp-content/uploads/2018/09/FB_ad_persona1-219x300.png 219w" sizes="(max-width: 271px) 100vw, 271px" /></a></p>
+<h3>The User Journey to Donation</h3>
+<p>WBUR&#8217;s radio programming and podcasts have a national following, but not all of these regular listeners are ready to donate &#8212; they may not know what WBUR is and they may not be emotionally committed to the programming they are listening to. So before designing specific messages to speak to the personas, we needed to articulate to ourselves the WBUR Donor Journey &#8212; <a href="https://theuxreview.co.uk/user-journeys-beginners-guide/">the path a user takes</a> from first listening to WBUR programming to eventually donating. The purpose in doing this is to ensure that we target our messaging to users based on where they are in the journey.</p>
+<h4>WBUR Listener Journey</h4>
+<ol>
+<li><strong>Become a listener. </strong>This is the moment when someone first encounters WBUR content, either on-air, on demand, online, or on stage. At this point, they may or may not know who created the content. A connection exists between the content and the listener, not between the program, WBUR, and the listener.</li>
+<li><strong>Rely on the program.</strong> Next, as the consumer listens, reads, and/or experiences the content repeatedly, they begin to associate value with the program, and rely on the program for delivering that quality.</li>
+<li><strong>Become aware of WBUR brand.</strong> For our longtime listeners and lifelong Boston residents, it is hard to remember a time before knowing WBUR (!), but this is a critical point in a donor&#8217;s journey. Listeners, in order to get to a point of donation, they must be aware of WBUR as a brand, distinct from WGBH (the &#8220;other&#8221; Boston NPR station) and from NPR. For listeners to a specific syndicated program, particularly on demand, they may not recognize WBUR’s brand until the program explains multiple times the relationship between the program and WBUR.</li>
+<li><strong>Become an insider of WBUR community.</strong> When someone is loyal to a program and aware of WBUR, we consider them to be transitioning into an &#8220;insider.&#8221; Insiders view WBUR as important to them, either because it <a href="/wp-content/uploads/2018/08/AL.png">makes them smarter</a>, it <a href="/wp-content/uploads/2018/08/WC.png">keeps them up on the news</a>, or it <a href="/wp-content/uploads/2018/08/LL.png">speaks to them emotionally</a>. The work required to usher someone to this insider status is not easy, and we have drawn a lot of inspiration from <a href="https://membershippuzzle.org/">The Membership Puzzle</a> and their guidance on <a href="https://membershippuzzle.org/articles-overview/cheatsheet-for-hosting-communities-of-practice">hosting communities of practice</a>.</li>
+<li><strong>Donate.</strong> We&#8217;ve reached the summit with our user and they are ready to donate! Or are they? The moment people have an impulse to donate is influenced many factors, and we highly recommend <a href="http://www.erezyoeli.com/">Erez Yoeli</a>&#8216;s <a href="https://www.youtube.com/watch?v=c3qHDHMhdSQ">TEDx talk on how to increase altruistic moments</a>. We also recommend reading &#8220;<a href="https://membershippuzzle.org/articles-overview/why-supporters-pay-for-journalism">Why supporters pay for journalism (hint: it’s not about exclusive access)</a>,&#8221; from the Membership Puzzle.</li>
+</ol>
+<p>Based on this five stage journey, we need to target and start our communication with users at Stage 3 or 4, and we will do this by targeting ads at users who have indicated on Facebook that they are fans of WBUR, WBUR programming, and NPR, and are located within Boston.</p>
+<h3>Structure of Donation Ask</h3>
+<p>To move someone from a loyal WBUR listener and a community insider to donating, we used a script that reflects research of emphasizing that <a href="http://knowledge.wharton.upenn.edu/article/maximizing-charitable-giving/">an emotional message, followed by a data-centric message</a>, is most effective. Here is the narrative flow we decided upon for our message:</p>
+<ol>
+<li><strong>Thank listeners</strong> for listening to WBUR and emphasize that WBUR is aligned to the <strong>mission</strong> that matches the reason this person loves WBUR.</li>
+<li>Remind the listener of <strong>the effort and cost</strong> spent creating the programming or content they love.</li>
+<li>Share <strong>a data point</strong> about how important donations are to WBUR, because only 4.5% of WBUR&#8217;s funding comes from the government (via the Corporation for Public Broadcasting).</li>
+<li>Ask for a <strong>donation</strong> to support the mission this persona values.</li>
+</ol>
+<h3>Messaging per Persona</h3>
+<p>We distilled each persona down into a statement about loving WBUR and then used that phrase to get users to self-select into one of our personas. Because Aspirational Learners are focused on content and learning, they would agree with &#8220;<a href="/wp-content/uploads/2018/08/AL.png">I learn more when listening to WBUR.</a>&#8221; Because World Citizens are focused on the news around the world, they would align with the statement, &#8220;<a href="/wp-content/uploads/2018/08/LL.png">I rely on WBUR to keep me informed about the world</a>.&#8221; And our Lifelong Listeners, who think of WBUR as a daily companion, would agree with &#8220;<a href="/wp-content/uploads/2018/08/LL.png">WBUR is an essential part of my day</a>.&#8221;</p>
+<p>So the flow our experiment first had users answer a question about why they love WBUR, and then from that moment forward they would see a message aligned to their values:</p>
+<p><a href="/wp-content/uploads/2018/09/all-of-the-above.png"><img loading="lazy" class="aligncenter wp-image-1159" src="/wp-content/uploads/2018/09/all-of-the-above-744x1024.png" alt="" width="342" height="470" srcset="/wp-content/uploads/2018/09/all-of-the-above-744x1024.png 744w, /wp-content/uploads/2018/09/all-of-the-above-218x300.png 218w, /wp-content/uploads/2018/09/all-of-the-above-768x1056.png 768w, /wp-content/uploads/2018/09/all-of-the-above.png 788w" sizes="(max-width: 342px) 100vw, 342px" /></a></p>
+<p>The exact text of each message is in the table below, with the green text highlighting where the text differed for each persona.</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: center;"><strong>Script for the<br />
+Aspirational Learner</strong></td>
+<td style="text-align: center;"><strong>Script for the<br />
+World Citizen</strong></td>
+<td style="text-align: center;"><strong>Script for the<br />
+Lifelong Listener</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>1: State our mission</strong></td>
+<td style="text-align: center;">A key part of our mission is to <em style="color: green;">educate listeners with fresh and informative content.</em></td>
+<td style="text-align: center;">A key part of our mission is to <em style="color: green;">get you the latest and most important news of the day.</em></td>
+<td style="text-align: center;">A key part of our mission is to <em style="color: green;">provide you compelling programming, 24 hours a day.</em></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2: Remind them of our work</strong></td>
+<td style="text-align: center;">It takes WBUR over 50 staff hours to produce one hour of WBUR.</td>
+<td style="text-align: center;">It takes WBUR over 50 staff hours to produce one hour of WBUR.</td>
+<td style="text-align: center;">It takes WBUR over 50 staff hours to produce one hour of WBUR.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>3: Share a data point about funding</strong></td>
+<td style="text-align: center;">Only the first 2 minutes of each day are covered by government funding.</td>
+<td style="text-align: center;">Only the first 2 minutes of each day are covered by government funding.</td>
+<td style="text-align: center;">Only the first 2 minutes of each day are covered by government funding.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>4: Explain the impact of a donation</strong></td>
+<td style="text-align: center;">$75 supports 1 additional minute <em style="color: green;">providing in-depth learning for all our listeners!</em></td>
+<td style="text-align: center;">$75 supports 1 additional minute <em style="color: green;">providing real-time updates for all our listeners!</em></td>
+<td style="text-align: center;">$75 supports 1 additional minute <em style="color: green;">providing daily discussion with all our listeners!</em></td>
+</tr>
+</tbody>
+</table>
+<h3>Recruiting Experience</h3>
+<p>To recruit listeners into this experience, we used Facebook ads to identify fans of WBUR and NPR within the Boston area. We created a 4 card carousel Facebook ad (see below). The first three have the three sentences and a persona icon to represent the reason for listening to WBUR, the final card had the label &#8220;All of the above.&#8221; We offered &#8220;All of the above&#8221; to find out how much our personas overlap. If everyone chooses &#8220;All of the above&#8221;, we will learn that our personas do not represent unique reasons for listening to WBUR.</p>
+<p><a href="/wp-content/uploads/2018/09/4options_cover-e1537900274478.png"><img loading="lazy" class="aligncenter wp-image-1081" src="/wp-content/uploads/2018/09/4options_cover-e1537900274478-1024x1021.png" alt="" width="368" height="367" srcset="/wp-content/uploads/2018/09/4options_cover-e1537900274478-1024x1021.png 1024w, /wp-content/uploads/2018/09/4options_cover-e1537900274478-150x150.png 150w, /wp-content/uploads/2018/09/4options_cover-e1537900274478-300x300.png 300w, /wp-content/uploads/2018/09/4options_cover-e1537900274478-768x766.png 768w, /wp-content/uploads/2018/09/4options_cover-e1537900274478-250x250.png 250w, /wp-content/uploads/2018/09/4options_cover-e1537900274478-174x174.png 174w" sizes="(max-width: 368px) 100vw, 368px" /></a></p>
+<p>&nbsp;</p>
+<h3>User Experience</h3>
+<p>The core messaging experience is presented in a custom, mobile-friendly web page. It is designed as a scrolling one-page site so we can can control the experiment conditions by pointing users to different pages and track engagement by tracking scroll depth and button clicks. We used Google&#8217;s suite of analytics tools, including <a href="https://optimize.google.com/optimize/home/#/accounts">Optimize</a>, for splitting experimental conditions and tracking.</p>
+<p>Using Optimize and Facebook&#8217;s built-in A/B testing, we randomized the messaging a person received, so 80% of people got the message aligned to their persona and 20% of the people saw a message aligned to an incorrect persona. If someone selected &#8220;all of the above,&#8221; they had a 33.3% chance of seeing each message.</p>
+<p>Below are miniature screenshots of each persona&#8217;s experience. You can also check out the experience yourself with our prototype:<strong> <a href="/wbur/index_wbur.html">Why do you love WBUR?</a></strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Visual Design for<br />
+Aspirational Learner</strong></td>
+<td style="text-align: center;"><strong>Visual Design for<br />
+World Citizen</strong></td>
+<td style="text-align: center;"><strong>Visual Design for<br />
+Lifelong Listener</strong></td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/09/mobile-webexperience-AspirationalLearner.jpg"><img loading="lazy" class="wp-image-1131 size-large aligncenter" src="/wp-content/uploads/2018/09/mobile-webexperience-AspirationalLearner-171x1024.jpg" alt="Aspirational Learner" width="171" height="1024" srcset="/wp-content/uploads/2018/09/mobile-webexperience-AspirationalLearner-171x1024.jpg 171w, /wp-content/uploads/2018/09/mobile-webexperience-AspirationalLearner-50x300.jpg 50w, /wp-content/uploads/2018/09/mobile-webexperience-AspirationalLearner-768x4605.jpg 768w, /wp-content/uploads/2018/09/mobile-webexperience-AspirationalLearner.jpg 790w" sizes="(max-width: 171px) 100vw, 171px" /></a></td>
+<td><a href="/wp-content/uploads/2018/09/mobile-webexperience-WorldCitizen.jpg"><img loading="lazy" class="wp-image-1132 size-large aligncenter" src="/wp-content/uploads/2018/09/mobile-webexperience-WorldCitizen-169x1024.jpg" alt="World Citizen" width="169" height="1024" srcset="/wp-content/uploads/2018/09/mobile-webexperience-WorldCitizen-169x1024.jpg 169w, /wp-content/uploads/2018/09/mobile-webexperience-WorldCitizen-768x4657.jpg 768w, /wp-content/uploads/2018/09/mobile-webexperience-WorldCitizen.jpg 788w" sizes="(max-width: 169px) 100vw, 169px" /></a></td>
+<td><a href="/wp-content/uploads/2018/09/mobile-webexperience-LifelongListener.jpg"><img loading="lazy" class="wp-image-1133 size-large aligncenter" src="/wp-content/uploads/2018/09/mobile-webexperience-LifelongListener-169x1024.jpg" alt="Lifelong Listener" width="169" height="1024" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>The four panels were instrumented with scroll checkpoints so we could measure engagement down the page. The page finished with two buttons, &#8220;Support&#8221; and &#8220;I&#8217;ve supported before.&#8221; We expected most users would not click donate, and the option to click &#8220;I&#8217;ve supported before&#8221; was designed to help us understand why someone wasn&#8217;t donating. The donate button went to our donation page and the &#8220;I&#8217;ve supported before&#8221; page forwarded to a Thank you page.</p>
+<p>The findings from the experiment are in <a href="/2018/09/donation-personas-results/">our next post</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Creating WBUR Personas</title>
+		<link>/2018/08/wbur-personas/</link>
+		
+		<dc:creator><![CDATA[Wendi Ding]]></dc:creator>
+		<pubDate>Fri, 24 Aug 2018 19:43:08 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=909</guid>
+
+					<description><![CDATA[[This is the 2nd blog post is written by BizLab Fellow Wendi Ding, sharing the discoveries from her Summer 2018 experiment.] There are 500,000 unique individuals listening to WBUR each week. How do we communicate effectively with each of them about why they listen to WBUR, what makes them loyal to the program, and what [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>[This is the 2nd blog post is written by BizLab Fellow Wendi Ding, sharing the discoveries from her Summer 2018 experiment.]</em></p>
+<p>There are 500,000 unique individuals listening to WBUR each week. How do we communicate effectively with each of them about why they listen to WBUR, what makes them loyal to the program, and what drives them to donate? Our answer is to use <a href="https://en.wikipedia.org/wiki/Persona_(user_experience)">personas</a>. A user persona is a fictional, yet realistic, description of a person who uses your product. In this case, someone who consumes WBUR’s content. By creating a set of representative personas, we are able to reduce our audience down to a &#8220;<a href="https://uxplanet.org/ux-personas-vs-marketing-personas-whats-the-difference-adc77f630332">manageable and memorable set of characters</a>,&#8221; and then design unique messages for each character in order to explore how to reach all our audience members.</p>
+<h3>Creating WBUR Personas</h3>
+<figure id="attachment_918" aria-describedby="caption-attachment-918" style="width: 337px" class="wp-caption alignright"><a href="/wp-content/uploads/2018/08/IMG_6397.jpg"><img loading="lazy" class="wp-image-918 " src="/wp-content/uploads/2018/08/IMG_6397-1024x768.jpg" alt="" width="337" height="253" srcset="/wp-content/uploads/2018/08/IMG_6397-1024x768.jpg 1024w, /wp-content/uploads/2018/08/IMG_6397-300x225.jpg 300w, /wp-content/uploads/2018/08/IMG_6397-768x576.jpg 768w, /wp-content/uploads/2018/08/IMG_6397-285x214.jpg 285w" sizes="(max-width: 337px) 100vw, 337px" /></a><figcaption id="caption-attachment-918" class="wp-caption-text">Figure 1. Sticky notes</figcaption></figure>
+<figure id="attachment_918" aria-describedby="caption-attachment-918" style="width: 333px" class="wp-caption alignright"><a href="/wp-content/uploads/2018/08/IMG_6398.jpg"><img loading="lazy" class="aligncenter wp-image-1030" src="/wp-content/uploads/2018/08/IMG_6398-300x225.jpg" alt="" width="333" height="250" srcset="/wp-content/uploads/2018/08/IMG_6398-300x225.jpg 300w, /wp-content/uploads/2018/08/IMG_6398-768x576.jpg 768w, /wp-content/uploads/2018/08/IMG_6398-1024x768.jpg 1024w, /wp-content/uploads/2018/08/IMG_6398-285x214.jpg 285w" sizes="(max-width: 333px) 100vw, 333px" /></a><figcaption id="caption-attachment-918" class="wp-caption-text">Figure 2. Affinity mapping</figcaption></figure>
+<p>At the beginning of the summer, to inform all of BizLab&#8217;s work, we pooled what we know about our listeners from multiple sources. BizLab&#8217;s survey research in 2017 provided hundreds of data points and listener quotes (a summary of this data is the BizLab Let&#8217;s Talk Survey &#8220;Opportunity Report&#8221;). We also met with WBUR&#8217;s “Sounding Board,” a group of young professionals loyal to WBUR who offer up quarterly feedback on different initiatives. Lastly we dove into <a href="http://www.wbur.org/">wbur.org</a>&#8216;s web analytics to understand behavioral trends in terms of digital consumption of our content. To break apart and reassemble our understanding of listeners into new forms, we wrote every observation about our listeners&#8217; values and consumption onto sticky notes (Fig 1).</p>
+<p>Through <a href="https://generalassemb.ly/design/user-experience-design/affinity-mapping">affinity mapping</a>, we grouped the sticky notes into themes (Fig 2), and identified 3 different personas based, not on demographics, but based on their motivations for listening to WBUR. Different from a traditional UX or marketing persona (<a href="https://uxplanet.org/ux-personas-vs-marketing-personas-whats-the-difference-adc77f630332">UX personas vs. marketing personas: what’s the difference?</a>), personas in this experiment include the information that associated with these questions:</p>
+<ul>
+<li>Why does he/she listen to WBUR?</li>
+<li>How does he/she listen to WBUR?</li>
+<li>What does WBUR mean to him/her?</li>
+</ul>
+<h4>The three personas are the Aspirational Learner, the World Citizen, and the Lifelong Learner.</h4>
+<p>&nbsp;</p>
+<h3>Anna, The Aspirational Learner</h3>
+<p>Anna likes to learn about new things that are inspiring and expand her horizons. She comes to WBUR for deep, intellectual content, sometimes with an explicit education goal and other times to be inspired. Typically she listens to WBUR on-demand, seeking out programs and content on topics she wants to learn about. We describe her as an &#8220;Aspirational Learner&#8221; because she is focused on self-improvement and her own education when she accesses our content.</p>
+<p>We pulled Anna&#8217;s traits from real audience responses to a survey question, “How did you discover WBUR?” such as:</p>
+<blockquote><p>“I was doing a paper in school on how laws often punish the poor and every time I turned on WBUR, there was a story I could use. Since then I&#8217;ve been a faithful listener.”</p>
+<p>“A college professor required my class to listen to public radio for an hour a day and keep a journal.”</p></blockquote>
+<h4><a href="/wp-content/uploads/2018/08/AL.png"><img loading="lazy" class="aligncenter wp-image-919" src="/wp-content/uploads/2018/08/AL.png" alt="" width="500" height="283" srcset="/wp-content/uploads/2018/08/AL.png 3604w, /wp-content/uploads/2018/08/AL-300x170.png 300w, /wp-content/uploads/2018/08/AL-768x434.png 768w, /wp-content/uploads/2018/08/AL-1024x579.png 1024w" sizes="(max-width: 500px) 100vw, 500px" /></a></h4>
+<p>&nbsp;</p>
+<h3>Ben, The World Citizen</h3>
+<p>Ben is focused on current events and has a strong commitment to staying on to of the news, in order to be an informed citizen and voter. WBUR helps him to keep updated with what is happening around the world and give him the sense of being part of a larger community. He listens to WBUR frequently for real-time updates on events.</p>
+<p>Ben was drawn from listener quotes like:</p>
+<blockquote><p>“College professor at University of Vermont told us about NPR quality news and when I moved back to Boston it was a natural transition for news.”</p>
+<p>“I was looking for a fact-based place to get news and analysis.”</p>
+<p>“Looking for honest journalism.”</p></blockquote>
+<p><a href="/wp-content/uploads/2018/08/WC.png"><img loading="lazy" class="aligncenter wp-image-920" src="/wp-content/uploads/2018/08/WC.png" alt="" width="500" height="283" srcset="/wp-content/uploads/2018/08/WC.png 3604w, /wp-content/uploads/2018/08/WC-300x170.png 300w, /wp-content/uploads/2018/08/WC-768x434.png 768w, /wp-content/uploads/2018/08/WC-1024x579.png 1024w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p>&nbsp;</p>
+<h3>Mary, The Lifelong Listener</h3>
+<p>Mary has been listening to WBUR for many years and has a strong emotional connection to the brand of WBUR, the local hosts, and the content. She was introduced to NPR as a child, and has many positive associations of listening during car trips, long periods at home, and during commutes. She typically has WBUR playing on the radio all day, either at her home or her office. WBUR is her constant companion.</p>
+<p><a href="/wp-content/uploads/2018/08/LL.png"><img loading="lazy" class="aligncenter wp-image-921" src="/wp-content/uploads/2018/08/LL.png" alt="" width="500" height="283" srcset="/wp-content/uploads/2018/08/LL.png 3604w, /wp-content/uploads/2018/08/LL-300x170.png 300w, /wp-content/uploads/2018/08/LL-768x434.png 768w, /wp-content/uploads/2018/08/LL-1024x579.png 1024w" sizes="(max-width: 500px) 100vw, 500px" /></a>.</p>
+<h3>Validating these Personas</h3>
+<p>I spent my summer at WBUR designing an experience to validate these personas exist amongst our active listeners. While these personas were created from real listener data, there is always a distinction between what people say versus what they do. So I designed a test to figure out if people would a) self-select into these different personas and b) engage more with messages designed for their specific persona. Stay tuned for <a href="/2018/09/persona-experiment-design/">my next blog post where I describe how we evaluated our personas</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Persona Experiment: It is no longer just a radio experience</title>
+		<link>/2018/08/the-persona-experiment-it-is-no-longer-just-a-radio-experience/</link>
+		
+		<dc:creator><![CDATA[Wendi Ding]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2018 02:12:30 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=829</guid>
+
+					<description><![CDATA[[This blog post is written by BizLab Fellow Wendi Ding, sharing the discoveries from her Summer 2018 experiment.] Whether it’s an interview on-air, a news story that caught someone&#8217;s eye on our website, an episode of a podcast with critical thinking, or a post on social media, public radio is no longer just a voice [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><em>[This blog post is written by BizLab Fellow Wendi Ding, sharing the discoveries from her Summer 2018 experiment.]</em></span></p>
+<p>Whether it’s an interview on-air, a news story that caught someone&#8217;s eye on our website, an episode of a podcast with critical thinking, or a post on social media, public radio is no longer just a voice people listen to during drive time on the car radio. <strong>Every touch WBUR has with our audience contributes to our audience’s experience, and impacts how they relate to our station.</strong></p>
+<p>Through <a href="/wp-content/uploads/2018/08/WBUR-Lets-Talk-Survey-Opportunity-Report.pdf">previous BizLab research</a>, we know that our listeners discover us through multiple scenarios and have kept listening to us for different reasons. Some people formed the habit of listening to WBUR when they were a child in the backseats of cars when their parents tuned into WBUR (or another local NPR station) during family drives. Other people started listening to WBUR while taking a college course, as part of a course assignment. Others found WBUR through a colleague&#8217;s or friend&#8217;s recommendation. In some cases, people moved to Boston and transferred their listening from another city&#8217;s NPR station to WBUR. And others did not have an affinity for public radio at all, but were seeking quality journalism and captivating programs, and found WBUR by surfing the radio dial or browsing podcast recommendations, and became a loyal listener because of the quality content WBUR produces.</p>
+<p>Our survey and metrics show that our audience is consuming our content on multiple platforms. Between our live stream, podcasts, and on-demand programs, people who used to listen by physical radios are migrating to digital platforms, leveraging the meaning of &#8220;experience&#8221; for public radio: people interact with our station across platforms and medium.</p>
+<p>Behind all of these many paths that lead people to WBUR, and the many forms of engagement with WBUR, we want to know if there are fundamentally different motivations amongst our listeners in why they listen, and donate, to WBUR<strong>. Does WBUR meet people&#8217;s needs in different ways? What makes them loyal to WBUR and consider themselves as a part of WBUR community? And given all this, what is the most effective way to drive them towards an altruism moment, where they donate to WBUR?</strong></p>
+<p>My Bizlab project &#8220;the Persona Experiment&#8221; is dedicated to answering the questions above. <a href="/2018/08/wbur-personas/">In my next post</a>, I will introduce how we designed and set up an experiment to answer these questions.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

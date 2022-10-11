@@ -1,0 +1,278 @@
+.slide {
+    left: 0;
+    height:100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.vertical-center {
+    text-align: center;
+}
+
+.identity{
+    /* Rectangle: */
+border: 3px solid #EFAE1F;
+display:block;
+background-color: #FFFFFF;
+color:#231F20;
+border-radius: 10px;
+margin-left:auto;
+margin-right:auto;
+padding:3vh;
+width:55vw;
+height:12vh;;
+text-decoration-line: none;
+vertical-align: middle;
+
+/* “I love learning new: */
+}
+#above{
+    height:5vh;
+}
+#above p{
+    margin-left:1em;
+}
+
+
+
+
+
+
+
+
+.forward{
+    font-family: Arial-BoldItalicMT, Arial;
+    font-size: 32px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    padding:5%;
+}
+.identity svg{
+    float:left;
+    width:20%; 
+    margin:auto;
+    
+}
+.sentence{
+    /* I listen newest 2 ep: */
+font-family: ArialMT, Arial;
+font-size: 28px;
+color: #231F20;
+letter-spacing: .05em; /* Adjust as needed */
+text-align: center;
+padding-left:5%;
+padding-right:5%;
+padding-bottom:3%;
+white-space:pre;
+vertical-align: text-bottom;
+}
+
+.annotation{
+font-family: ArialMT,  Arial;
+font-size: 14px;
+color: #231F20;
+letter-spacing: .05em; /* Adjust as needed */
+text-align: center;
+bottom:0;
+margin-bottom:8vh;
+z-index: 1;
+}
+
+.sentence img{
+    height:28px;
+}
+
+.typewriter{
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .05em; /* Adjust as needed */
+  animation: 
+    typing 2s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+/* The typing effect */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #EFAE1F }
+  }
+
+
+a:link{
+    text-decoration: none;
+}
+.identity p{
+    font-family: ArialMT,  Arial;
+font-size: 4vh;
+
+text-align: center;
+text-decoration-line: none;
+margin-top:0.2vh;
+}
+
+
+.identity img{
+    height: 1em;
+    vertical-align: text-top;
+
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 90vh;  
+
+}
+
+.question{
+    display:block;
+    text-align:center;
+    padding:5%;
+
+    /* Why do you love: */
+font-family: Arial-BoldMT,  Arial;
+font-size: 5vh;
+color: black;
+letter-spacing: 0.01px;
+}
+
+.slideSvg{
+    width:auto;
+    height:25vh;
+}
+.shadow{
+    /* OnPoint-200x200: */
+box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.50);
+}
+
+.footer{
+    /* Design by Bizlab 201: */
+    margin-left:4%;
+    width:25%;
+    position:fixed;
+    z-index:1; 
+    bottom: 0;
+}
+
+.arrow{
+    z-index:1; 
+    bottom:0;
+}
+
+
+
+
+
+
+
+.yellow{
+    color:#EFAE1F 
+}
+.white{
+    color:white
+}
+.red{
+    color:#EA4335
+}
+.inline{
+    display:inline
+}
+.o2{
+    opacity:0
+}
+.black{
+    color:#231F20;
+}
+
+@media screen and (max-width: 992px) {
+    .question{
+        font-size:36px;
+    }
+    
+   
+    .sentence{
+        font-size: 24px;    
+    }
+    .sentence img{
+        height:24px;
+    }
+    .annotation{
+        font-size:12px;
+    }
+
+    .identity p{
+        font-size:19pt;
+    }
+
+   
+}
+
+
+
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+
+    .question{
+        font-size:28px;
+    }
+
+    .identity{
+        width:70vw;
+        height:12vh;
+    }
+
+    .identity p{
+        font-size:3vh;
+    }
+   
+    .sentence{
+        font-size: 20px;    
+    }
+    .sentence img{
+        height:20px;
+    }
+    .footer{
+        width:50%;
+    }
+    
+    .annotation{
+        font-size:6px;
+    }
+    .sentence{
+        white-space:normal;
+    }
+    
+}
+
+@media screen and (max-height: 459px) {
+    .question{
+        font-size:36px;
+    }
+    
+   
+    .sentence{
+        font-size: 24px;    
+    }
+    .sentence img{
+        height:24px;
+    }
+    .annotation{
+        font-size:12px;
+    }
+
+    .identity p{
+        font-size:3vh;
+    }
+
+   
+}
+

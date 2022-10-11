@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VTDigger &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/tag/vtdigger/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Dec 2019 14:47:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>VTDigger &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>July 2019 Webinar: Transactional Business Models in Nonprofit Media</title>
+		<link>/2019/06/july-2019-webinar-transactional-business-models-in-nonprofit-media/</link>
+		
+		<dc:creator><![CDATA[Lindsy Goldberg]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2019 17:31:41 +0000</pubDate>
+				<category><![CDATA[Webinars]]></category>
+		<category><![CDATA[Affiliate Marketing]]></category>
+		<category><![CDATA[Selling Tickets]]></category>
+		<category><![CDATA[VTDigger]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<category><![CDATA[WLRN]]></category>
+		<guid isPermaLink="false">/?p=1750</guid>
+
+					<description><![CDATA[Is your nonprofit news organization reliant on donations and underwriting? BizLab&#8217;s July webinar presents three alternative ways of generating revenue at nonprofit news organizations: The VTDigger (http://vtdigger.org),/ as a service to Vermont businesses, post press releases from businesses, state agencies, political organizations and nonprofits.  They have been expanding the services connected with press releases to explore if [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<div>
+<p>Is your nonprofit news organization reliant on donations and underwriting? BizLab&#8217;s July webinar presents three alternative ways of generating revenue at nonprofit news organizations:</p>
+<p><strong>The VTDigger</strong> (<a href="http://vtdigger.org/">http://vtdigger.org/</a>), as a service to Vermont businesses, <strong>post press releases from businesses, state agencies, political organizations and nonprofits.</strong>  They have been expanding the services connected with press releases to explore if there are revenue opportunities for VTDigger. During the webinar, <strong>Founder and Editor Anne Galloway</strong> will share results from this experiment.</p>
+<p><strong>WLRN&#8217;s Cultural Connection</strong> (<a href="https://www.culturalconnection.org/">https://www.culturalconnection.org/</a>) is a long running service provided to South Florida, connecting theatre venues with customer&#8217;s looking for <strong>last-minute ticket discounts</strong>. And this primarily digital service generates significant revenue for WLRN. <strong>Brendan Glynn, Director of Corporate Underwriting at Friends of WLRN, Inc.</strong>, will share the history of how this service was established and how the station manages the business.</p>
+<p><strong>WBUR&#8217;s BizLab</strong> is exploring <strong>affiliate marketing</strong> as a revenue source for the station. With outside contributors writing product recommendation &#8220;guides,&#8221; WBUR launched a site called WBUR Guides (<a href="http://guides.wbur.org/">http://guides.wbur.org/</a>) that highlights interesting products on the market geared for the public radio audience. By testing and iterating, we are learning what works in terms of topics, products, distribution, and promotion. <strong>Matt Aufiero, BizLab 2019 Fellow,</strong> will share results.</p>
+</div>
+</div>
+<h2>Date</h2>
+<p>Tuesday, July 23, 2019, 3-4pm EDT</p>
+<h2>Speakers</h2>
+<ul>
+<li>Matt Aufiero, WBUR BizLab</li>
+<li>Brendan Glynn, WLRN</li>
+<li>Anne Galloway, VTDigger</li>
+</ul>
+<h2>Recording</h2>
+<p><a href="http://https://youtu.be/tEyQMSo-AXo">http://https://youtu.be/tEyQMSo-AXo</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

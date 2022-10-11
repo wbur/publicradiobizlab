@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KPCC &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/tag/kpcc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Dec 2019 14:48:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>KPCC &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>April 2019 Webinar: Fundraising Through Kickstarter Campaigns</title>
+		<link>/2019/03/april-2019-webinar-fundraising-through-kickstarter-campaigns/</link>
+		
+		<dc:creator><![CDATA[Lindsy Goldberg]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2019 18:48:21 +0000</pubDate>
+				<category><![CDATA[Webinars]]></category>
+		<category><![CDATA[KPCC]]></category>
+		<category><![CDATA[WAMU]]></category>
+		<category><![CDATA[WDET]]></category>
+		<category><![CDATA[WNYC]]></category>
+		<guid isPermaLink="false">/?p=1638</guid>
+
+					<description><![CDATA[Topic: Fundraising Through Kickstarter Campaigns Join us on April 23 for presentations about a variety of kickstarter fundraising projects in public radio. During the hour, we will hear the backstory behind each project, the kickstarter goals and processes, results, and insights from the teams behind each initiative. WDET will be presenting on their Framed by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2019/03/Untitled-presentation-1-e1554390037427.jpg"><img loading="lazy" class="aligncenter size-full wp-image-1657" src="/wp-content/uploads/2019/03/Untitled-presentation-1-e1554390037427.jpg" alt="" width="724" height="218" srcset="/wp-content/uploads/2019/03/Untitled-presentation-1-e1554390037427.jpg 724w, /wp-content/uploads/2019/03/Untitled-presentation-1-e1554390037427-300x90.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p>
+<h2 style="text-align: left;">Topic: Fundraising Through Kickstarter Campaigns</h2>
+<p>Join us on April 23 for presentations about a variety of kickstarter fundraising projects in public radio. During the hour, we will hear the backstory behind each project, the kickstarter goals and processes, results, and insights from the teams behind each initiative. WDET will be presenting on their Framed by WDET project, which was a multi-platform effort that included a multimedia exhibition and printed book. We will be hearing about the fundraising efforts behind re-launching Gothamist, LAist, and DCist from WNYC, KPCC and WAMU.</p>
+<h2>Date</h2>
+<p>Tuesday, April 23 2019, 3-4pm EDT on Zoom.</p>
+<h2>Speakers</h2>
+<ul>
+<li>Courtney Hurtt, Associate Director of Product Development and Business Operations, WDET</li>
+<li>Dan Fitchette, Senior Manager, Fundraising, WNYC / Gothamist</li>
+<li>Maddie Poore, Membership Coordinator, WAMU / DCist</li>
+<li>Deanna Archetto, On-Air Fundraising Manager, KPCC / LAist</li>
+<li>Alex Schaffert-Callaghan, Senior Vice President, Strategic Planning and Chief Digital Officer, KPCC / LAist</li>
+</ul>
+<h2>Thank you for attending! View slides from our presenters:</h2>
+<ul>
+<li><a href="/wp-content/uploads/2019/03/April-2019-Webinar-Slides-Kickstarter-Fundraising.pdf" rel="attachment wp-att-1723">Webinar Slides (Fundraising Through Kickstarter Campaigns)</a></li>
+</ul>
+<p style="text-align: center;">
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

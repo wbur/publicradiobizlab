@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cynthia Yue &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/author/cynthia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Aug 2019 19:38:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>Cynthia Yue &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bookshelf Experiment Results</title>
+		<link>/2018/08/bookshelf-experiment-results/</link>
+		
+		<dc:creator><![CDATA[Cynthia Yue]]></dc:creator>
+		<pubDate>Sun, 05 Aug 2018 01:04:33 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[Affiliate Marketing]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=772</guid>
+
+					<description><![CDATA[[This blog post is written by BizLab Fellow Cynthia Yue, sharing the results from her Summer 2018 experiment.] As outlined in my last blog post, I spent my summer at WBUR following an iterative design process to design an experience that compels users to purchase books.  In this blog post, I discuss the findings from an [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><em>[This blog post is written by BizLab Fellow Cynthia Yue, sharing the results from her Summer 2018 experiment.]</em></span></p>
+<p><span style="font-weight: 400;">As outlined in <a href="/2018/08/the-bookshelf-experiment-our-design-process/">my last blog post</a>, I spent my summer at <a href="http://wbur.org/">WBUR</a> following an iterative design process to design an experience that compels users to purchase books.  In this blog post, I discuss the findings from an experiment to determine if this experience drives affiliate marketing revenue</span><span style="font-weight: 400;">. </span></p>
+<h1><strong>Experiment Design</strong></h1>
+<p><span style="font-weight: 400;">After designing <a href="/bookshelf_page/bookshelf.html">a new user experience for a digital bookshelf</a>, featuring the books WBUR&#8217;s programming talks about on-air, in order to evaluate its effectiveness as a revenue channel, I compared how it performed in comparison to WBUR&#8217;s other webpages that have book content. To do this, I made some minor improvements to two additional webpage types by adding book imagery and more links to Amazon. Then I launched Facebook ads to all three types of pages, targeted at people who like WBUR and books. </span></p>
+<h4><span style="text-decoration: underline;"><span style="font-weight: 400;">Condition 1 &#8211; Articles about Books</span></span></h4>
+<p>Anytime a book is mentioned on-air or an author is interviewed, there is <a href="http://www.wbur.org/hereandnow/2018/07/18/stargazing-guide-tips-summer">an article on our website</a> with this content. I selected four of our recent articles about books and added some additional book imagery and links to Amazon, and created a Facebook ad that appeared similar to a news article in a Facebook newsfeed.</p>
+<table class=" aligncenter">
+<tbody>
+<tr>
+<th style="text-align: left;"><strong>Before</strong></th>
+<th style="text-align: left;"><strong>After</strong></th>
+<th style="text-align: left;"><strong>Facebook Ad</strong></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/07/original-article.png"><img loading="lazy" class="size-medium wp-image-717 alignleft" src="/wp-content/uploads/2018/07/original-article-201x300.png" alt="" width="201" height="300" srcset="/wp-content/uploads/2018/07/original-article-201x300.png 201w, /wp-content/uploads/2018/07/original-article.png 517w" sizes="(max-width: 201px) 100vw, 201px" /></a></td>
+<td valign="middle"><a href="/wp-content/uploads/2018/07/new-article.png"><img loading="lazy" class="size-medium wp-image-716 alignleft" src="/wp-content/uploads/2018/07/new-article-169x300.png" alt="" width="169" height="300" srcset="/wp-content/uploads/2018/07/new-article-169x300.png 169w, /wp-content/uploads/2018/07/new-article.png 458w" sizes="(max-width: 169px) 100vw, 169px" /></a></td>
+<td><a href="/wp-content/uploads/2018/08/FB_ad_books3.png"><img loading="lazy" class="aligncenter wp-image-1164" src="/wp-content/uploads/2018/08/FB_ad_books3.png" alt="" width="200" height="305" srcset="/wp-content/uploads/2018/08/FB_ad_books3.png 642w, /wp-content/uploads/2018/08/FB_ad_books3-197x300.png 197w" sizes="(max-width: 200px) 100vw, 200px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4><span style="text-decoration: underline;"><span style="font-weight: 400;">Condition 2 &#8211; The Summer Reading List</span></span></h4>
+<p><span style="font-weight: 400;">The On Point team published a <a href="http://www.wbur.org/onpoint/2018/06/29/best-2018-summer-books">Summer Reading List</a> in June 2018 that contained several lists of books recommended by media personalities. We had seen this page get notable traffic in June, and because it has many links to books, it is the most similar page to the bookshelf, but it lacks the rich content and additional information shown on the bookself page. Before launching Facebook ads for this page, I added more book imagery to this page as well.</span></p>
+<table class=" aligncenter">
+<tbody>
+<tr>
+<th style="text-align: left;">Before</th>
+<th style="text-align: left;"><strong>After</strong></th>
+<th style="text-align: left;"><strong>Facebook Ad</strong></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/07/original-reading-list.png"><img loading="lazy" class="wp-image-721 alignleft" src="/wp-content/uploads/2018/07/original-reading-list-176x300.png" alt=" Before" width="253" height="431" srcset="/wp-content/uploads/2018/07/original-reading-list-176x300.png 176w, /wp-content/uploads/2018/07/original-reading-list.png 510w" sizes="(max-width: 253px) 100vw, 253px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/new-reading-list.png"><img loading="lazy" class="wp-image-720 alignleft" src="/wp-content/uploads/2018/07/new-reading-list-136x300.png" alt="After" width="206" height="455" srcset="/wp-content/uploads/2018/07/new-reading-list-136x300.png 136w, /wp-content/uploads/2018/07/new-reading-list-465x1024.png 465w" sizes="(max-width: 206px) 100vw, 206px" /></a></td>
+<td><a href="/wp-content/uploads/2018/08/FB_ad_books1.png"><img loading="lazy" class="aligncenter wp-image-1165" src="/wp-content/uploads/2018/08/FB_ad_books1.png" alt="" width="297" height="459" srcset="/wp-content/uploads/2018/08/FB_ad_books1.png 648w, /wp-content/uploads/2018/08/FB_ad_books1-194x300.png 194w" sizes="(max-width: 297px) 100vw, 297px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4><span style="text-decoration: underline;"><span style="font-weight: 400;">Condition 3 &#8211; The WBUR Bookshelf</span></span></h4>
+<p>The design of the bookshelf was based off of several phases of user feedback. The main inspiration for the bookself design was to replicate the experience of browsing for books that were hand selected by hosts of shows. The bookself we launched is a high-fidelity prototype in the sense that none of the content is dynamic. This is important to note because to launch the bookself in a sustainable way, we will need to invest time and resources into building it from scratch.<a style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;" href="/wp-content/uploads/2018/07/Desktop-Copy.png"><br />
+<img loading="lazy" class="wp-image-729 size-large alignleft" src="/wp-content/uploads/2018/07/Desktop-Copy-1024x702.png" alt="" width="640" height="439" /></a></p>
+<table class=" aligncenter">
+<tbody>
+<tr>
+<th style="text-align: left;"><strong>Facebook Ad 1</strong></th>
+<th style="text-align: left;"><strong>Facebook Ad 2</strong></th>
+<th style="text-align: left;"><strong>Facebook Ad 3</strong></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/08/FB_ad_books8.png"><img loading="lazy" class="wp-image-1167 aligncenter" src="/wp-content/uploads/2018/08/FB_ad_books8.png" alt="" width="251" height="363" srcset="/wp-content/uploads/2018/08/FB_ad_books8.png 644w, /wp-content/uploads/2018/08/FB_ad_books8-208x300.png 208w" sizes="(max-width: 251px) 100vw, 251px" /></a></td>
+<td><a href="/wp-content/uploads/2018/08/FB_ad_books7.png"><img loading="lazy" class="wp-image-1168 aligncenter" src="/wp-content/uploads/2018/08/FB_ad_books7.png" alt="" width="240" height="353" srcset="/wp-content/uploads/2018/08/FB_ad_books7.png 632w, /wp-content/uploads/2018/08/FB_ad_books7-204x300.png 204w" sizes="(max-width: 240px) 100vw, 240px" /></a></td>
+<td><a href="/wp-content/uploads/2018/08/FB_ad_books9.png"><img loading="lazy" class="wp-image-1169 aligncenter" src="/wp-content/uploads/2018/08/FB_ad_books9.png" alt="" width="244" height="339" srcset="/wp-content/uploads/2018/08/FB_ad_books9.png 680w, /wp-content/uploads/2018/08/FB_ad_books9-216x300.png 216w" sizes="(max-width: 244px) 100vw, 244px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>We ran three variations of Facebook ads for the bookshelf, to maximize traffic.</p>
+<h1><b>Results</b></h1>
+<p><span style="font-weight: 400;"> The Facebook ads pointing to each page type ran for approximately 7 days, and during that time the different pages got thousands of pageviews. </span>We anticipated, because the bookshelf had the features users were looking for, that it would get the most traffic, interaction, and revenue. This is not what happened. While the bookshelf got the most traffic, indicating interest, it did not generate as many click throughs or purchases as we&#8217;d hoped for.</p>
+<table class="aligncenter" style="width: 100%;">
+<tbody>
+<tr>
+<th style="text-align: center;">Condition</th>
+<th>Pageviews</th>
+<th>Clicks Through to Amazon</th>
+<th>Amazon Items Purchased</th>
+<th>WBUR Earnings</th>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Articles about a book</p>
+</td>
+<td style="text-align: center;"><span style="font-weight: 400;">1,611 pageviews</span></td>
+<td style="text-align: center;">25 clicks<br />
+(1.55% CTR)</td>
+<td style="text-align: center;">2 items<br />
+(8.0% conversion rate)</td>
+<td style="text-align: center;">$2.35</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Summer Reading List</p>
+</td>
+<td style="text-align: center;">2,664 pageviews</td>
+<td style="text-align: center;">1,585 clicks<br />
+(59.5% CTR)</td>
+<td style="text-align: center;">90 items<br />
+(5.7% conversion rate)</td>
+<td style="text-align: center;">$100.08</td>
+</tr>
+<tr>
+<td>WBUR Bookshelf</td>
+<td><span style="font-weight: 400;">4,247 p</span><span style="font-weight: 400;">ageviews</span></td>
+<td style="text-align: center;"><span style="font-weight: 400;">468 clicks<br />
+(11.02% CTR)</span></td>
+<td style="text-align: center;"><span style="font-weight: 400;">10 items<br />
+(2.1% conversion rate)</span></td>
+<td style="text-align: center;">$9.11</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>The standout winner in this comparison of the page types is <strong>the Summer Reading List page</strong>. This page had an extremely high click through rate over to amazon (59.5%) and the conversion of those clicks into purchases was also higher than the bookshelf (5.7%). In our 7 day experiment, the list earned WBUR $100, while the bookshelf earned $9.11 and the book articles earned $2.35. <span style="font-weight: 400;">The conversion rate is significantly higher (at a 99% confidence interval) when compared to the  bookshelf.</span><span style="font-weight: 400;"> </span></p>
+<p><a href="/wp-content/uploads/2018/08/comparison-of-book-pages.png"><img loading="lazy" class="aligncenter  wp-image-1197" src="/wp-content/uploads/2018/08/comparison-of-book-pages-1024x688.png" alt="" width="411" height="276" srcset="/wp-content/uploads/2018/08/comparison-of-book-pages-1024x688.png 1024w, /wp-content/uploads/2018/08/comparison-of-book-pages-300x202.png 300w, /wp-content/uploads/2018/08/comparison-of-book-pages-768x516.png 768w, /wp-content/uploads/2018/08/comparison-of-book-pages.png 1202w" sizes="(max-width: 411px) 100vw, 411px" /></a></p>
+<h1><b>Discussion and Recommended Next Steps</b></h1>
+<p>These results have generated a lot of new ideas for where to take this concept and how to translate this into actionable next steps for WBUR. As a designer, I have many ideas for how to improve upon the bookshelf design. I&#8217;m also a practitioner and understand the realities of limited time and budget, so want to balance my recommendations for the best design direction versus the most practical next step for a public radio station.</p>
+<p>Beyond this experiment, there is a larger context: the WBUR site has hundreds of links to purchase books and over the years the institutional knowledge of how to create Amazon affiliate tags had been lost. When I started my fellowship, I worked with WBUR staff to ensure affiliate tags were on all of the Amazon books links found on our site. This change in workflow impacted many pages, and will continue to have an impact. <strong>In the last two months since I&#8217;ve joined BizLab, WBUR raised $2,488.41 through the Amazon Affiliate&#8217;s program!</strong> Average earnings before I arrived were $410 a month.</p>
+<p>What should WBUR do going forward, based on what we learned from the prototype, the experiment, and the change in tagging?</p>
+<p><strong>Here are my recommendations on how we can improve.</strong></p>
+<ol>
+<li><span style="font-weight: 400;"><span style="font-weight: 400;">We know that the embedded Amazon search widget (that allows searches for Amazon books on our site) is beneficial. In interviews, our users appreciated knowing that they can support their favorite radio station while shopping on Amazon, and this mitigated their hesitation over supporting Amazon instead of a local retailer. The metrics from our bookshelf page confirm active engagement with the search widget &#8212; it accounts for 40% of purchases and 10% of click throughs from the bookshelf page. My <strong>first recommendation is to include this widget on all WBUR pages related to books,</strong> accompanied with messaging about their purchases benefitting WBUR. For example:</span></span><a href="/wp-content/uploads/2018/08/Screen-Shot-2018-08-02-at-4.52.02-PM.png"><img loading="lazy" class="aligncenter wp-image-774 size-medium" src="/wp-content/uploads/2018/08/Screen-Shot-2018-08-02-at-4.52.02-PM-300x238.png" alt="" width="300" height="238" srcset="/wp-content/uploads/2018/08/Screen-Shot-2018-08-02-at-4.52.02-PM-300x238.png 300w, /wp-content/uploads/2018/08/Screen-Shot-2018-08-02-at-4.52.02-PM-768x608.png 768w, /wp-content/uploads/2018/08/Screen-Shot-2018-08-02-at-4.52.02-PM.png 874w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
+<li><span style="font-weight: 400;"><span style="font-weight: 400;"><strong>I also propose that we create more book lists and present them in a list-like format while retaining some important visual elements from the bookshelf.</strong> Users liked seeing book covers and photos of hosts on the page. A/B tests can be conducted to confirm whether or not it will impact Amazon purchases. As long as these elements are not preventing Amazon purchases, I think it is beneficial to include them because it’s what our users want.</span></span>An advantage to creating book lists on a periodic basis, versus building a bookshelf that automatically aggregates books, is that the technical development effort is much lower. On a quarterly, or monthly basis, a radio programs team can create a quick list using existing tools, and likely replicate the impressive revenue increase we saw this summer.</li>
+</ol>
+<p><a href="/wp-content/uploads/2018/08/Final-bookshelf-mockup.png"><img loading="lazy" class="wp-image-775 size-large aligncenter" src="/wp-content/uploads/2018/08/Final-bookshelf-mockup-794x1024.png" alt="" width="640" height="825" srcset="/wp-content/uploads/2018/08/Final-bookshelf-mockup-794x1024.png 794w, /wp-content/uploads/2018/08/Final-bookshelf-mockup-233x300.png 233w, /wp-content/uploads/2018/08/Final-bookshelf-mockup-768x991.png 768w, /wp-content/uploads/2018/08/Final-bookshelf-mockup.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span style="font-weight: 400;">Although adding book cover images to the book articles and reading list did not increase Amazon purchases, I think more testing should be done before we can draw conclusions. I say this for 2 main reasons: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Due to time constraints, the new / old versions of the articles and reading lists were not tested simultaneously. The original versions without book cover images were launched first, and then entirely replaced with the new versions. Timing can be impacting conversion rates here.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">During interviews, our users expressed a preference for pages with more book cover images.</span></li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Bookshelf Experiment &#038; Our Design Process</title>
+		<link>/2018/08/the-bookshelf-experiment-our-design-process/</link>
+		
+		<dc:creator><![CDATA[Cynthia Yue]]></dc:creator>
+		<pubDate>Fri, 03 Aug 2018 19:45:39 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=683</guid>
+
+					<description><![CDATA[[This blog post is written by BizLab Fellow Cynthia Yue, introducing her Summer 2018 experiment, focused on affiliate marketing and book purchases.] WBUR has participated in Amazon’s affiliate program since 2002. This program pays organizations a portion of the revenue earned from any consumers an organization directs to Amazon. What this means for WBUR is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>[This blog post is written by BizLab Fellow Cynthia Yue, introducing her Summer 2018 experiment, focused on affiliate marketing and book purchases.]</em></p>
+<p><a href="/wp-content/uploads/2018/08/Google-Forms-pre-set.png"><img loading="lazy" class="size-large wp-image-767 aligncenter" src="/wp-content/uploads/2018/08/Google-Forms-pre-set-1024x256.png" alt="" width="640" height="160" srcset="/wp-content/uploads/2018/08/Google-Forms-pre-set-1024x256.png 1024w, /wp-content/uploads/2018/08/Google-Forms-pre-set-300x75.png 300w, /wp-content/uploads/2018/08/Google-Forms-pre-set-768x192.png 768w, /wp-content/uploads/2018/08/Google-Forms-pre-set.png 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span style="font-weight: 400;">WBUR has participated in <a href="https://affiliate-program.amazon.com/">Amazon’s affiliate program</a> since 2002. This program pays organizations a portion of the revenue earned from any consumers an organization directs to Amazon. What this means for WBUR is that anytime someone makes a purchase on Amazon, after clicking on a link from <a href="http://www.wbur.org/">WBUR.org</a>, a percentage of their subsequent Amazon purchases is passed back to WBUR, providing valuable financial support our programming. </span></p>
+<p><span style="font-weight: 400;">Because books are often discussed on WBUR&#8217;s programs, we have rich book-related content on our website that can be associated with Amazon&#8217;s affiliate marketing program. For a variety of reasons such as website redesigns and staff changes, our affiliate marketing revenue has gradually decreased over the years. </span></p>
+<p><span style="font-weight: 400;">Aligned to BizLab&#8217;s mission of experimenting with new ways to raise money for public radio, I wanted to tackle the domain of affiliate marketing with a fresh perspective. Our first central question is: <strong><em>can we design a book-finding experience for WBUR listeners that compels listeners to find and then purchase books, to the level that will generate significant revenue for the station?</em></strong></span></p>
+<p>In this post, I will walk you through the human centered design process that I used to answer this question. This process is composed of four stages: discover, define, develop and deliver. This is Part 1 of a two-part post.</p>
+<p>&nbsp;</p>
+<h1><b>The Process<br />
+</b></h1>
+<p>Our design process follows the double diamond method, which starts by asking a general question relating to the problem I am trying to solve for. This is followed by a path of divergence and convergence as I examine the general question and narrow down into a more specific question. After establishing a specific question, I diverge again as I start examining possible solutions. I proceed with a cycle of refinement by designing, prototyping, user testing which leads us to narrow down our possibilities as I come closer to a specific solution.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2018/08/doublediamond3.png"><img loading="lazy" class="alignnone size-large wp-image-769" src="/wp-content/uploads/2018/08/doublediamond3-1024x919.png" alt="" width="640" height="574" srcset="/wp-content/uploads/2018/08/doublediamond3.png 1024w, /wp-content/uploads/2018/08/doublediamond3-300x269.png 300w, /wp-content/uploads/2018/08/doublediamond3-768x689.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<h2><b>Discover<br />
+</b></h2>
+<p>To start, I gathered data from multiple sources to gain a better understanding the general question: <strong><em>how can we raise money for WBUR by using affiliate links to books on Amazon? </em></strong></p>
+<p>The main goal here was to glean insights from existing data from within WBUR, and to start collecting additional data required to fill in the gaps.</p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Desk Research </strong>I </span><span style="font-weight: 400;">conducted an evaluation of existing and similar book related pages from </span><span style="font-weight: 400;">libraries, popular publishers, social media platforms, book ecommerce products and products cited in our survey responses. </span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">I also examined WBUR&#8217;s web traffic using Google Analytics and evaluated historical affiliate activity in our Amazon Associates account.</span></p>
+<p style="padding-left: 30px;"><span style="color: #f2b111;"><strong><span style="color: #9c9c9c;"><span style="color: #000000;">User Research</span> </span></strong></span><span style="font-weight: 400;">We ran a survey, using SurveyMonkey, to better understand how our audiences consume books. </span></p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Small Application </strong></span><span style="font-weight: 400;">WBUR already links to books on Amazon quite frequently. To start measuring potential results, I immediately worked with multiple departments within WBUR to ensure that Amazon links are properly tagged moving forward.</span></p>
+<h2><strong>Define<br />
+</strong></h2>
+<p>In this phase, I start narrowing down our question by analyzing and synthesizing all of our data from the previous phase.</p>
+<p style="padding-left: 30px;"><span style="color: #9c9c9c;"><strong><span style="color: #000000;">Data Analysis</span></strong></span></p>
+<p style="padding-left: 30px;">A majority of wbur.org&#8217;s users enter through specific articles. This is split between non-show articles and articles associated with shows. Non-show articles include <a href="http://www.wbur.org/news">WBUR News</a>, <a href="http://www.wbur.org/artery">The Artery</a>, <a href="http://www.wbur.org/cognoscenti">Cognoscenti</a>, <a href="http://www.wbur.org/commonhealth">Common Health</a>, etc. Show articles include all articles affiliated with <a href="http://www.wbur.org/hereandnow">Here &amp; Now</a>, <a href="http://www.wbur.org/onpoint">On Point</a>, <a href="http://www.wbur.org/modernlove">Modern Love</a>, etc. Knowing how people arrive on our site informs where we should be promoting our book links to get maximum exposure.</p>
+<p style="padding-left: 30px;">Examination of our Amazon Associates revenue reveals a rapid decline in revenue. This occurs for several reasons that I won&#8217;t get into, but it shows potential for this experiment, <strong>which is exciting</strong>!</p>
+<table style="width: 100%; padding-left: 30px;">
+<tbody>
+<tr>
+<th style="text-align: left; padding-left: 30px;"><span style="font-weight: 400;">Web Traffic</span></th>
+<th style="text-align: left;"><span style="font-weight: 400;">Amazon Affiliate Revenue</span></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/07/chart.png"><img loading="lazy" class="alignnone wp-image-689 size-full" src="/wp-content/uploads/2018/07/chart.png" alt="" width="420" height="339" srcset="/wp-content/uploads/2018/07/chart.png 420w, /wp-content/uploads/2018/07/chart-300x242.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/Amazon-Associates-Revenue-by-Year.png"><img loading="lazy" class="alignnone wp-image-688 " src="/wp-content/uploads/2018/07/Amazon-Associates-Revenue-by-Year.png" alt="" width="486" height="317" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p style="padding-left: 30px;"><strong>Survey Results from Key Findings</strong></p>
+<p style="padding-left: 30px;">Below I&#8217;m highlighting the key findings revealed by our survey, which received 208 responses.</p>
+<p style="text-align: left; padding-left: 30px;"><span style="text-decoration: underline;">Sources for book recommendations<br />
+</span>I was happy to see that half of respondents get book recommendation from the radio. In connecting the top 2 resources for finding books, friends and bookstores, I immediately start getting ideas. It is worth mentioning here that prior research conducted by BizLab found that our loyal listeners considers WBUR to be like a friend. <strong>So&#8230;<em>what if we craft an experience that replicates the feeling of being in a bookstore while evoking the feeling that WBUR, a friend, is recommending certain books to read? </em></strong></p>
+<table class=" aligncenter" style="width: 100%;">
+<tbody>
+<tr>
+<th style="text-align: center;"><span style="font-weight: 400;">~50% take book recommendations from <b>radio</b></span></th>
+<th style="text-align: center;"><span style="font-weight: 400;">#1 resource for book recommendation: <b>friends</b></span></th>
+<th style="text-align: center;"><span style="font-weight: 400;">#2 resource for book recommendation:<br />
+</span><b>browsing</b> <b>bookstores</b></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/07/radio_icon.png"><img class="wp-image-699 aligncenter" src="/wp-content/uploads/2018/07/radio_icon.png" alt="" width="100" /></a></td>
+<td valign="middle"><a href="/wp-content/uploads/2018/07/friends.png"><img loading="lazy" class="size-full wp-image-700 aligncenter" src="/wp-content/uploads/2018/07/friends.png" alt="" width="91" height="91" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/bookstore.png"><img loading="lazy" class="aligncenter wp-image-701" src="/wp-content/uploads/2018/07/bookstore.png" alt="" width="77" height="100" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left; padding-left: 30px;"><span style="text-decoration: underline;">Common behaviors<br />
+</span>Many of our responses cited NYT and NPR Books as reliable resources of book recommendations. Neither NYT nor NPR Books accommodate all of the notable behaviors listed below. <strong>So&#8230;w<em>hat if WBUR addresses these behaviors by including a function to add books to a &#8220;to-read&#8221; list, while presenting relevant information so that our users no longer need to diverge upon multiple journeys before deciding to purchase a book? </em></strong></p>
+<table class=" aligncenter" style="width: 100%;">
+<tbody>
+<tr>
+<th style="text-align: center;"><span style="font-weight: 400;">Keeping “to-read” Lists</span></th>
+<th style="text-align: center;"><span style="font-weight: 400;">Referring to NYTs and NPR Books</span></th>
+<th style="text-align: center;"><span style="font-weight: 400;">Consulting multiple sources before<br />
+committing to read a book</span></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/07/book-list.png"><img loading="lazy" class="aligncenter wp-image-702" src="/wp-content/uploads/2018/07/book-list.png" alt="" width="90" height="98" /></a></td>
+<td valign="middle"><a href="/wp-content/uploads/2018/07/nyt.png"><img loading="lazy" class="aligncenter wp-image-703" src="/wp-content/uploads/2018/07/nyt.png" alt="" width="144" height="70" /></a><a href="/wp-content/uploads/2018/07/npr-books.png"><img loading="lazy" class="wp-image-704 aligncenter" src="/wp-content/uploads/2018/07/npr-books.png" alt="" width="99" height="59" srcset="/wp-content/uploads/2018/07/npr-books.png 292w, /wp-content/uploads/2018/07/npr-books-285x173.png 285w" sizes="(max-width: 99px) 100vw, 99px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/mult.png"><img loading="lazy" class="wp-image-705 aligncenter" src="/wp-content/uploads/2018/07/mult.png" alt="" width="85" height="99" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class=" aligncenter" style="width: 100%;">
+<tbody>
+<tr>
+<th style="text-align: center;"><span style="font-weight: 400;">Wants to learn more<br />
+about the author</span></th>
+<th style="text-align: center;"><span style="font-weight: 400;">Reads 2-3 reviews from<br />
+other readers</span></th>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2018/07/author.png"><img loading="lazy" class="size-full wp-image-743 aligncenter" src="/wp-content/uploads/2018/07/author.png" alt="" width="80" height="84" /></a></td>
+<td valign="middle"><a href="/wp-content/uploads/2018/07/reviews.png"><img loading="lazy" class="aligncenter wp-image-744" src="/wp-content/uploads/2018/07/reviews.png" alt="" width="100" height="100" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2>Specific Question</h2>
+<p>With this insight, we were able to focus down to a more specific question:</p>
+<blockquote><p><strong><em>How can we design an experience that compels users to purchase a book?</em></strong></p></blockquote>
+<h2><b>Develop</b></h2>
+<p>To develop a solution, I began with brainstorming and sketching. As I moved to higher fidelity protoypes, I got feedback from users each step of the way.</p>
+<p style="padding-left: 30px;"><strong>Ideation</strong></p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Book articles<br />
+</span>To make the book more prominent and recognizable, I added more generic book covers to existing book related articles on the site.</p>
+<table style="padding-left: 30px;">
+<tbody>
+<tr>
+<th style="text-align: left; padding-left: 30px;"><span style="font-weight: 400;">Before</span></th>
+<th style="text-align: left; padding-left: 30px;"><span style="font-weight: 400;">After</span></th>
+</tr>
+<tr>
+<td style="padding-left: 30px;"><a href="/wp-content/uploads/2018/07/original-article.png"><img loading="lazy" class="size-medium wp-image-717 alignleft" src="/wp-content/uploads/2018/07/original-article-201x300.png" alt="" width="201" height="300" srcset="/wp-content/uploads/2018/07/original-article-201x300.png 201w, /wp-content/uploads/2018/07/original-article.png 517w" sizes="(max-width: 201px) 100vw, 201px" /></a></td>
+<td style="text-align: center;" valign="middle"><a href="/wp-content/uploads/2018/07/new-article.png"><img loading="lazy" class="size-medium wp-image-716 alignleft" src="/wp-content/uploads/2018/07/new-article-169x300.png" alt="" width="169" height="300" srcset="/wp-content/uploads/2018/07/new-article-169x300.png 169w, /wp-content/uploads/2018/07/new-article.png 458w" sizes="(max-width: 169px) 100vw, 169px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Book lists</span><strong><br />
+</strong>I also added more book covers to our On Point summer reading list. Book covers are lined up row by row, with the name of the person recommending the books displayed in bold font. This attempts to replicate the experience of going into a local bookstore.</p>
+<table style="width: 85%; padding-left: 30px;">
+<tbody>
+<tr>
+<th style="text-align: left; padding-left: 30px;"><span style="font-weight: 400;">Before</span></th>
+<th style="text-align: left; padding-left: 30px;"><span style="font-weight: 400;">After</span></th>
+</tr>
+<tr>
+<td style="padding-left: 30px;"><a href="/wp-content/uploads/2018/07/original-reading-list.png"><img loading="lazy" class="size-medium wp-image-721 alignnone" src="/wp-content/uploads/2018/07/original-reading-list-176x300.png" alt="" width="176" height="300" srcset="/wp-content/uploads/2018/07/original-reading-list-176x300.png 176w, /wp-content/uploads/2018/07/original-reading-list.png 510w" sizes="(max-width: 176px) 100vw, 176px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/new-reading-list.png"><img loading="lazy" class="wp-image-720 alignnone" src="/wp-content/uploads/2018/07/new-reading-list-136x300.png" alt="" width="151" height="312" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="padding-left: 30px;">Lastly, I started building a new page entirely dedicated to books. This accommodates common book reading behavior revealed in our survey.</p>
+<table style="padding-left: 30px;">
+<tbody>
+<tr>
+<td style="padding-left: 30px;"><a href="/wp-content/uploads/2018/07/bookshelf-sketch3.png"><img loading="lazy" class="wp-image-748 alignnone" src="/wp-content/uploads/2018/07/bookshelf-sketch3.png" width="220" height="327" srcset="/wp-content/uploads/2018/07/bookshelf-sketch3.png 297w, /wp-content/uploads/2018/07/bookshelf-sketch3-202x300.png 202w" sizes="(max-width: 220px) 100vw, 220px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/bookshelf-sketch1.png"><img loading="lazy" class="wp-image-746 alignnone" src="/wp-content/uploads/2018/07/bookshelf-sketch1.png" alt="" width="220" height="337" srcset="/wp-content/uploads/2018/07/bookshelf-sketch1.png 289w, /wp-content/uploads/2018/07/bookshelf-sketch1-196x300.png 196w" sizes="(max-width: 220px) 100vw, 220px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/bookshelf-sketch2.png"><img loading="lazy" class="wp-image-747 alignnone" src="/wp-content/uploads/2018/07/bookshelf-sketch2.png" alt="" width="220" height="323" srcset="/wp-content/uploads/2018/07/bookshelf-sketch2.png 302w, /wp-content/uploads/2018/07/bookshelf-sketch2-205x300.png 205w" sizes="(max-width: 220px) 100vw, 220px" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Deliver</strong></h2>
+<p>In the Deliver phase I start iterating upon our initial design through a cycle of rapid prototyping and testing. I went through four design iterations to create a functional, testable prototype.</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Design 1</span><br />
+These were mockups created using Sketch. This design offers information on the author, ratings/reviews and a book summary. I presented this to BizLab&#8217;s internal team of advisors, whose main concerns were that it didn&#8217;t provide much added value from what already existed on Goodreads and Amazon. A user can easily do a Google search to learn more about the author; what value is WBUR adding for book readers? These were valid concerns.</p>
+<table style="width: 100%; padding-left: 30px;">
+<tbody>
+<tr>
+<td style="padding-left: 30px;"><a href="/wp-content/uploads/2018/07/Homepage.png"><img loading="lazy" class="alignnone wp-image-749" src="/wp-content/uploads/2018/07/Homepage-632x1024.png" alt="" width="250" height="405" srcset="/wp-content/uploads/2018/07/Homepage-632x1024.png 632w, /wp-content/uploads/2018/07/Homepage-185x300.png 185w, /wp-content/uploads/2018/07/Homepage-768x1245.png 768w, /wp-content/uploads/2018/07/Homepage.png 1024w" sizes="(max-width: 250px) 100vw, 250px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/Hover-over.png"><img loading="lazy" class="alignnone wp-image-750" src="/wp-content/uploads/2018/07/Hover-over-632x1024.png" alt="" width="250" height="405" srcset="/wp-content/uploads/2018/07/Hover-over-632x1024.png 632w, /wp-content/uploads/2018/07/Hover-over-185x300.png 185w, /wp-content/uploads/2018/07/Hover-over-768x1245.png 768w, /wp-content/uploads/2018/07/Hover-over.png 1024w" sizes="(max-width: 250px) 100vw, 250px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/Title-Page.png"><img loading="lazy" class="alignnone wp-image-751" src="/wp-content/uploads/2018/07/Title-Page-632x1024.png" alt="" width="250" height="405" srcset="/wp-content/uploads/2018/07/Title-Page-632x1024.png 632w, /wp-content/uploads/2018/07/Title-Page-185x300.png 185w, /wp-content/uploads/2018/07/Title-Page-768x1245.png 768w, /wp-content/uploads/2018/07/Title-Page.png 1024w" sizes="(max-width: 250px) 100vw, 250px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Designs 2 and 3 </span></p>
+<p style="padding-left: 30px;">I started with another approach and built two <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">medium-fidelity prototypes using InVision. Rather than just having WBUR branding, I placed more emphasis on specific hosts and shows, tying back into the finding of book recommendations from friends holding the most value; this adds a face to the recommendations. These prototypes also present more WBUR specific content. Additionally, I wanted to explore the idea of having an Amazon search widget along with messaging that states: &#8220;<i>When you buy a book through the provided Amazon links, a portion of the proceeds goes to help fund WBUR&#8221;.</i></span></p>
+<table style="width: 100%; padding-left: 30px;">
+<tbody>
+<tr>
+<td style="padding-left: 30px;"><a href="/wp-content/uploads/2018/07/Homepage-2.png"><img loading="lazy" class="alignnone wp-image-753" src="/wp-content/uploads/2018/07/Homepage-2-451x1024.png" alt="" width="200" height="454" srcset="/wp-content/uploads/2018/07/Homepage-2-451x1024.png 451w, /wp-content/uploads/2018/07/Homepage-2-132x300.png 132w, /wp-content/uploads/2018/07/Homepage-2-768x1743.png 768w, /wp-content/uploads/2018/07/Homepage-2.png 1024w" sizes="(max-width: 200px) 100vw, 200px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/Homepage-1.png"><img loading="lazy" class="alignnone wp-image-752" src="/wp-content/uploads/2018/07/Homepage-1-517x1024.png" alt="" width="200" height="396" srcset="/wp-content/uploads/2018/07/Homepage-1-517x1024.png 517w, /wp-content/uploads/2018/07/Homepage-1-152x300.png 152w, /wp-content/uploads/2018/07/Homepage-1-768x1520.png 768w, /wp-content/uploads/2018/07/Homepage-1.png 1024w" sizes="(max-width: 200px) 100vw, 200px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="padding-left: 30px;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">These prototypes were user tested with WBUR listeners and book lovers &#8212; people who had previously participated in our survey. </span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">The key takeaways from these design reviews were: </span></p>
+<ul>
+<li>Users wanted to see more faces associated with books</li>
+<li>Users have a strong preference for shopping for books locally</li>
+<li>Users felt better about buying books from Amazon knowing their purchases would benefit WBUR</li>
+<li>Users liked having the option to play audio</li>
+</ul>
+<p style="padding-left: 30px;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">This feedback I collected was extremely helpful in informing the next iteration. </span></p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Design 4</span></p>
+<p style="padding-left: 30px; text-align: left;">A high fidelity prototype built with HTML and CSS. I launched this on our BizLab site and started directing traffic to it using banner and social media ads. I&#8217;m currently comparing the performance of this page with the book articles and book lists that were modified in the ideation phase. You can visit the bookshelf here: <a href="/bookshelf_page/bookshelf.html">/bookshelf_page/bookshelf.html</a></p>
+<table style="width: 100%; padding-left: 30px;">
+<tbody>
+<tr>
+<th style="text-align: left; padding-left: 30px;"><span style="font-weight: 400;">Desktop</span></th>
+<th style="text-align: left;"><span style="font-weight: 400;">Tablet</span></th>
+<th style="text-align: left;"><span style="font-weight: 400;">Mobile</span></th>
+</tr>
+<tr>
+<td style="padding-left: 30px;"><a href="/wp-content/uploads/2018/07/Desktop-Copy.png"><img loading="lazy" class="alignnone wp-image-729" src="/wp-content/uploads/2018/07/Desktop-Copy-300x206.png" alt="" width="353" height="242" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/Tablet.png"><img loading="lazy" class="alignnone size-medium wp-image-731" src="/wp-content/uploads/2018/07/Tablet-207x300.png" alt="" width="207" height="300" srcset="/wp-content/uploads/2018/07/Tablet-207x300.png 207w, /wp-content/uploads/2018/07/Tablet.png 768w, /wp-content/uploads/2018/07/Tablet-707x1024.png 707w" sizes="(max-width: 207px) 100vw, 207px" /></a></td>
+<td><a href="/wp-content/uploads/2018/07/Mobile.png"><img loading="lazy" class="alignnone wp-image-730" src="/wp-content/uploads/2018/07/Mobile-144x300.png" alt="" width="89" height="210" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

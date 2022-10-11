@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Analytics &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/tag/analytics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Jan 2020 20:26:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>Analytics &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Your Time of Day Traffic Patterns Reveal About Your Site</title>
+		<link>/2020/01/what-your-time-of-day-traffic-patterns-reveal-about-your-site/</link>
+		
+		<dc:creator><![CDATA[Ted Fuller]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2020 20:26:07 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[Analytics]]></category>
+		<category><![CDATA[LPM]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[VPR]]></category>
+		<category><![CDATA[WAMU]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<category><![CDATA[WDET]]></category>
+		<category><![CDATA[WLRN]]></category>
+		<guid isPermaLink="false">/?p=2554</guid>
+
+					<description><![CDATA[As an analytics professional, part of what attracted me to the work of WBUR’s BizLab for the opportunity to compare analytics across a variety of sites from around the country, each with differing user-bases, use-cases and key features. As we began research efforts with our cohort stations early this year, I reviewed each partner organization&#8217;s [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As an analytics professional, part of what attracted me to the work of WBUR’s BizLab for the opportunity to compare analytics across a variety of sites from around the country, each with differing user-bases, use-cases and key features.</p>
+<p><span style="font-weight: 400;">As we began research efforts with our cohort stations early this year, I reviewed each partner organization&#8217;s analytics data and immediately began to notice distinctive patterns in the time of day when users engaged with each site. BizLab cohort partners included a local event-focused site and a hip local news site, as well as the regional public radio news sites you may be most familiar with. It’s important to keep these divergent content profiles in mind when comparing traffic between sites.</span></p>
+<p>Our first two cohort partners managed sites which illustrated the distinctive traffic patterns yielded by two very different types of content. Do502 is an events site offering a guide to shows, food and activities in Louisville and DCist is a news site with an informal tone which offers stories that matter to people who live and/or work in Washington DC.</p>
+<p>While DCist sees peaks of mobile traffic during each commute and steady desktop traffic during the workday, Do502 desktop traffic hits its peaks on Monday and Fridays when their events emails are sent out. Also, Do502 mobile activity reaches its peak on Fridays and Saturdays, while DCist mobile activity falls off on the weekends. This is when most events covered by Do502 occur, and meanwhile DCist readers know not to expect to see new content published on weekends.</p>
+<p><a href="/wp-content/uploads/2020/01/Sparklines-DCist-and-Do502.png"><img loading="lazy" class="wp-image-2555 size-full aligncenter" src="/wp-content/uploads/2020/01/Sparklines-DCist-and-Do502.png" alt="Time of Day Traffic Patterns" width="974" height="504" srcset="/wp-content/uploads/2020/01/Sparklines-DCist-and-Do502.png 974w, /wp-content/uploads/2020/01/Sparklines-DCist-and-Do502-300x155.png 300w, /wp-content/uploads/2020/01/Sparklines-DCist-and-Do502-768x397.png 768w" sizes="(max-width: 974px) 100vw, 974px" /></a></p>
+<p><span style="font-weight: 400;">With that in mind, I identified a few common time-of-day patterns in our cohort analytics data; have a look, then use the final section to compare your own data.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">If: Your traffic sees mid-day plateaus during the work-week:</span></h2>
+<h2><span style="font-weight: 400;">Then: You provide a steady feed of diverting content which draws your users during their workday.</span></h2>
+<p><a href="/wp-content/uploads/2020/01/Devils-Tower-Pattern.png"><img loading="lazy" class="aligncenter wp-image-2575 size-full" src="/wp-content/uploads/2020/01/Devils-Tower-Pattern.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/Devils-Tower-Pattern.png 600w, /wp-content/uploads/2020/01/Devils-Tower-Pattern-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<figure id="attachment_2573" aria-describedby="caption-attachment-2573" style="width: 300px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2020/01/dreyfus.jpg"><img loading="lazy" class="wp-image-2573 size-medium" src="/wp-content/uploads/2020/01/dreyfus-300x270.jpg" alt="" width="300" height="270" srcset="/wp-content/uploads/2020/01/dreyfus-300x270.jpg 300w, /wp-content/uploads/2020/01/dreyfus.jpg 470w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-2573" class="wp-caption-text">This is important! This means something!</figcaption></figure>
+<ul>
+<li>Consider this context as you make editorial decisions, or as you decide how to interpret analytics results.</li>
+<li>Google Analytics is not revealing communiqués from Spielbergian extraterrestrials. When your plateau is distinct as it is in the example, it’s likely that you have a localized audience.</li>
+</ul>
+<p><a href="/wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1.png"><img loading="lazy" class="wp-image-2561 size-full aligncenter" src="/wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1.png 600w, /wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="/wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03.png"><img loading="lazy" class="size-full wp-image-2558 aligncenter" src="/wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03.png 600w, /wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h2><span style="font-weight: 400;">If: Your traffic features distinct peaks:</span></h2>
+<h2><span style="font-weight: 400;">Then: Your users are largely choosing to engage with your property at the beginning and close of each day.</span></h2>
+<p><a href="/wp-content/uploads/2020/01/Cat-Ears-Pattern-1.png"><img loading="lazy" class="size-full wp-image-2560 aligncenter" src="/wp-content/uploads/2020/01/Cat-Ears-Pattern-1.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/Cat-Ears-Pattern-1.png 600w, /wp-content/uploads/2020/01/Cat-Ears-Pattern-1-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It might be worthwhile to review sessions per user per day to understand whether for your site this pattern indicates that users are coming twice each day, or that there are two cohorts of users who respectively visit in the morning and evening.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To understand what your users are doing during peaks, identify your peak hours and then see what sources of acquisition are strongest during peaks compared to the rest of the day.</span></li>
+</ul>
+<p><span style="font-weight: 400;">This pattern could indicate that your site’s engagement is driven by the commute, especially if it’s especially pronounced for your mobile users.</span></p>
+<h2><span style="font-weight: 400;">If: Your weekday traffic exhibits a sharp morning incline, then a slow decline for the rest of the day:</span></h2>
+<h2><span style="font-weight: 400;">Then: Your audience has good reason to check in with you first thing, but you aren’t providing as compelling a reason to return later in the day.</span><a href="/wp-content/uploads/2020/01/Whale-Pattern.png"><img loading="lazy" class="size-full wp-image-2562 aligncenter" src="/wp-content/uploads/2020/01/Whale-Pattern.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/Whale-Pattern.png 600w, /wp-content/uploads/2020/01/Whale-Pattern-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></h2>
+<p><span style="font-weight: 400;">If you see this pattern in your site, consider whether it&#8217;s a strategic priority to attract more users throughout the afternoon. If so:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Consider regularly publishing some content in the afternoon, so your users can have a reason to return after their morning session.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If you’re sending newsletters in the mornings, check to see how much newsletter traffic is responsible for your morning peak. If its effect is negligible, consider some A/B tests around sending the newsletter in the afternoons instead.</span></li>
+</ul>
+<h2><b>Now you try!</b></h2>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Start by adding this report: </span><a href="https://analytics.google.com/analytics/web/template?uid=TtIV35NvQaG2IRNCKFKARA"><b>SessionData Extract|v01</b></a><span style="font-weight: 400;"> to the Google Analytics instance for the property you’d like to measure. <a href="/wp-content/uploads/2020/01/Import-Custom-report.png"><img loading="lazy" class="aligncenter wp-image-2564 size-full" src="/wp-content/uploads/2020/01/Import-Custom-report.png" alt="" width="755" height="330" srcset="/wp-content/uploads/2020/01/Import-Custom-report.png 755w, /wp-content/uploads/2020/01/Import-Custom-report-300x131.png 300w" sizes="(max-width: 755px) 100vw, 755px" /></a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Set a recent date-range which results in no more than 5,000 rows of data in the report; that should give you plenty of space to extract a full year’s worth of data.<a href="/wp-content/uploads/2020/01/set-date-range-in-custom-report.png"><img loading="lazy" class="aligncenter wp-image-2565 size-full" src="/wp-content/uploads/2020/01/set-date-range-in-custom-report.png" alt="" width="861" height="461" srcset="/wp-content/uploads/2020/01/set-date-range-in-custom-report.png 861w, /wp-content/uploads/2020/01/set-date-range-in-custom-report-300x161.png 300w, /wp-content/uploads/2020/01/set-date-range-in-custom-report-768x411.png 768w" sizes="(max-width: 861px) 100vw, 861px" /></a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Set the report to show the maximum 5,000 rows, then export this report to google sheets.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Open this template google sheet I’ve built. The template is view-only so <strong>make a copy for yourself </strong>so you can edit. </span><a href="https://docs.google.com/spreadsheets/d/1dS09d_ajIUdh-R501eJ0gZCh-FiYOpVCwbiBNaXfEWA/edit?usp=sharing"><span style="font-weight: 400;">TEMPLATE &#8211; Time of Day Comparison</span></a><a href="/wp-content/uploads/2020/01/template-screenshot.png"><img loading="lazy" class="size-full wp-image-2566 aligncenter" src="/wp-content/uploads/2020/01/template-screenshot.png" alt="" width="989" height="300" srcset="/wp-content/uploads/2020/01/template-screenshot.png 989w, /wp-content/uploads/2020/01/template-screenshot-300x91.png 300w, /wp-content/uploads/2020/01/template-screenshot-768x233.png 768w" sizes="(max-width: 989px) 100vw, 989px" /></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Now, copy the data from your exported google analytics report into the <strong>TABLE tab</strong> of your copy of the google sheet. The charts on the subsequent tabs will populate with the data you’ve added. Which of the described patterns or BizLab cohort station patterns does your traffic most closely resemble? Take a screenshot and tweet me your results at <a href="https://twitter.com/ted_fuller">@Ted_Fuller</a>!</span></li>
+</ol>
+<p><b>Advanced:</b><span style="font-weight: 400;"> Apply custom segments to the SessionData Extract report to extract data for specific segments, i.e. regions, activities, demographics etc. Then, compare the data you’ve collected!</span></p>
+<p><a href="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekday.png"><img loading="lazy" class="size-full wp-image-2567 aligncenter" src="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekday.png" alt="" width="960" height="540" srcset="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekday.png 960w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekday-300x169.png 300w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekday-768x432.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></a> <a href="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekend.png"><img loading="lazy" class="size-full wp-image-2568 aligncenter" src="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekend.png" alt="" width="960" height="540" srcset="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekend.png 960w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekend-300x169.png 300w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekend-768x432.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+<p>I&#8217;d like to thank Amira Valliani of <a href="https://www.glow.fm/">glow.fm</a> and Joan DiMicco of the <a href="/">WBUR Bizlab</a> for inspiring this article.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sarah Bloomer &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/author/sabloomer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Mar 2020 21:34:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>Sarah Bloomer &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The BizLab Method and Tools</title>
+		<link>/2020/01/resources-for-discovery-research-tools-and-analysis/</link>
+		
+		<dc:creator><![CDATA[Sarah Bloomer]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 16:56:18 +0000</pubDate>
+				<category><![CDATA[2019 Summit]]></category>
+		<category><![CDATA[News from the Lab]]></category>
+		<category><![CDATA[BizLab Methods]]></category>
+		<guid isPermaLink="false">/?p=2684</guid>
+
+					<description><![CDATA[As we prepared to work with our 2019 cohort stations, BizLab sketched out our process and identified Discovery Research and Analysis tools and methods that we thought would work within a lean startup framework. We needed methods which were easy for teams to learn and apply rapidly. We needed analysis tools which could be applied [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">As we prepared to work with our 2019 cohort stations, BizLab sketched out our process and identified Discovery Research and Analysis tools and methods that we thought would work within a lean startup framework. We needed methods which were easy for teams to learn and apply rapidly. We needed analysis tools which could be applied at different stages. Each project would require both qualitative research such as face-to-face interviews and quantitative data such as Google Analytics. We therefore created instruction sheets to provide our cohort stations as needed. A few more tools were added over the year, such as mini-surveys and love letters. </span></p>
+<p><span style="font-weight: 400;">All of these resources are provided here. You will see that these are written for the stations &#8211; giving them instructions about when they need to do planning or review with the BizLab team. There are references to enable teams to learn more &#8211; especially as our goal is to enable teams to continue to apply the BizLab method on future projects. </span></p>
+<p><span style="font-weight: 400;">We are pleased to be able to provide you with BizLab’s methods and tools. </span></p>
+<p><span style="font-weight: 400;"><strong><a href="/wp-content/uploads/2020/01/Pkt-1-BizLab-Method.pdf">Packet 1: BizLab Method</a></strong> &#8211; An overview of BizLab’s 6 month engagement</span></p>
+<p><span style="font-weight: 400;"><strong><a href="/wp-content/uploads/2020/01/Pkt-2-BizLab-Research-Methods-and-Tools.pdf">Packet 2: BizLab Research Methods and Tools</a> </strong>&#8211; 11 methods &amp; tools plus how to recruit people and do preliminary analysis</span></p>
+<p><span style="font-weight: 400;"><strong><a href="/wp-content/uploads/2020/01/Pkt-3-BizLab-Analysis-Methods-and-Tools.pdf">Packet 3: BizLab Analysis Methods and Tools</a> </strong>&#8211; 7 analysis &amp; synthesis methods and tools</span></p>
+<p><span style="font-weight: 400;">With these materials, may you find and implement new revenue streams at your station. </span></p>
+<p>Reach out to us with your use cases and questions on Twitter @WBURBizLab or email at bizlab@wbur.org.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

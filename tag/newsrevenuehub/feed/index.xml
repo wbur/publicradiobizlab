@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NewsRevenueHub &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/tag/newsrevenuehub/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Jan 2020 01:29:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>NewsRevenueHub &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>September 2019 Webinar: Technologies Bridging the Gap Between Engagement and Revenue</title>
+		<link>/2019/08/september-2019-webinar-content-converts-technologies-that-are-bridging-the-gap-between-engagement-and-revenue/</link>
+		
+		<dc:creator><![CDATA[Lindsy Goldberg]]></dc:creator>
+		<pubDate>Mon, 26 Aug 2019 16:57:15 +0000</pubDate>
+				<category><![CDATA[Webinars]]></category>
+		<category><![CDATA[GroundSource]]></category>
+		<category><![CDATA[Hearken]]></category>
+		<category><![CDATA[NewsRevenueHub]]></category>
+		<guid isPermaLink="false">/?p=2174</guid>
+
+					<description><![CDATA[Join us on September 24th for a series of presentations and Q &#38; A with three technology companies that are actively working to bridge the gap between content engagement and revenue generation in public media newsrooms. Groundsource, Hearken and News Revenue Hub will present successful use cases in public media and share their learnings on [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Join us on September 24th for a series of presentations and Q &amp; A with three technology companies that are actively working to bridge the gap between content engagement and revenue generation in public media newsrooms. <strong>Groundsource</strong>, <strong>Hearken</strong> and<strong> News Revenue Hub</strong> will present successful use cases in public media and share their learnings on navigating the challenges of connecting ethical content guidelines and content production with the practice of generating revenue and successfully navigating organizational silos.</p>
+<h2>Date</h2>
+<p>Tuesday, September 24 2019, 3-4pm Eastern Time</p>
+<h2>Speakers</h2>
+<ul>
+<li>Andrew Haeg, Founder, Groundsource</li>
+<li>Meredith Turk, Engagement Strategy and Industry Partnerships Lead, Hearken</li>
+<li>Rebecca Quarls, Director of Data and Strategy, News Revenue Hub</li>
+</ul>
+<h2>Recording</h2>
+<p><a href="http://https://www.youtube.com/watch?v=2SvBOYYDnE4">http://https://www.youtube.com/watch?v=2SvBOYYDnE4</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

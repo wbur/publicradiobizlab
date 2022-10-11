@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WBUR &#8211; Public Radio Biz Lab</title>
+	<atom:link href="/tag/wbur/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Mar 2020 20:12:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-bizlab_round_wordmark_yellow-1-32x32.gif</url>
+	<title>WBUR &#8211; Public Radio Biz Lab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Your Time of Day Traffic Patterns Reveal About Your Site</title>
+		<link>/2020/01/what-your-time-of-day-traffic-patterns-reveal-about-your-site/</link>
+		
+		<dc:creator><![CDATA[Ted Fuller]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2020 20:26:07 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[Analytics]]></category>
+		<category><![CDATA[LPM]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[VPR]]></category>
+		<category><![CDATA[WAMU]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<category><![CDATA[WDET]]></category>
+		<category><![CDATA[WLRN]]></category>
+		<guid isPermaLink="false">/?p=2554</guid>
+
+					<description><![CDATA[As an analytics professional, part of what attracted me to the work of WBUR’s BizLab for the opportunity to compare analytics across a variety of sites from around the country, each with differing user-bases, use-cases and key features. As we began research efforts with our cohort stations early this year, I reviewed each partner organization&#8217;s [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As an analytics professional, part of what attracted me to the work of WBUR’s BizLab for the opportunity to compare analytics across a variety of sites from around the country, each with differing user-bases, use-cases and key features.</p>
+<p><span style="font-weight: 400;">As we began research efforts with our cohort stations early this year, I reviewed each partner organization&#8217;s analytics data and immediately began to notice distinctive patterns in the time of day when users engaged with each site. BizLab cohort partners included a local event-focused site and a hip local news site, as well as the regional public radio news sites you may be most familiar with. It’s important to keep these divergent content profiles in mind when comparing traffic between sites.</span></p>
+<p>Our first two cohort partners managed sites which illustrated the distinctive traffic patterns yielded by two very different types of content. Do502 is an events site offering a guide to shows, food and activities in Louisville and DCist is a news site with an informal tone which offers stories that matter to people who live and/or work in Washington DC.</p>
+<p>While DCist sees peaks of mobile traffic during each commute and steady desktop traffic during the workday, Do502 desktop traffic hits its peaks on Monday and Fridays when their events emails are sent out. Also, Do502 mobile activity reaches its peak on Fridays and Saturdays, while DCist mobile activity falls off on the weekends. This is when most events covered by Do502 occur, and meanwhile DCist readers know not to expect to see new content published on weekends.</p>
+<p><a href="/wp-content/uploads/2020/01/Sparklines-DCist-and-Do502.png"><img loading="lazy" class="wp-image-2555 size-full aligncenter" src="/wp-content/uploads/2020/01/Sparklines-DCist-and-Do502.png" alt="Time of Day Traffic Patterns" width="974" height="504" srcset="/wp-content/uploads/2020/01/Sparklines-DCist-and-Do502.png 974w, /wp-content/uploads/2020/01/Sparklines-DCist-and-Do502-300x155.png 300w, /wp-content/uploads/2020/01/Sparklines-DCist-and-Do502-768x397.png 768w" sizes="(max-width: 974px) 100vw, 974px" /></a></p>
+<p><span style="font-weight: 400;">With that in mind, I identified a few common time-of-day patterns in our cohort analytics data; have a look, then use the final section to compare your own data.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">If: Your traffic sees mid-day plateaus during the work-week:</span></h2>
+<h2><span style="font-weight: 400;">Then: You provide a steady feed of diverting content which draws your users during their workday.</span></h2>
+<p><a href="/wp-content/uploads/2020/01/Devils-Tower-Pattern.png"><img loading="lazy" class="aligncenter wp-image-2575 size-full" src="/wp-content/uploads/2020/01/Devils-Tower-Pattern.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/Devils-Tower-Pattern.png 600w, /wp-content/uploads/2020/01/Devils-Tower-Pattern-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<figure id="attachment_2573" aria-describedby="caption-attachment-2573" style="width: 300px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2020/01/dreyfus.jpg"><img loading="lazy" class="wp-image-2573 size-medium" src="/wp-content/uploads/2020/01/dreyfus-300x270.jpg" alt="" width="300" height="270" srcset="/wp-content/uploads/2020/01/dreyfus-300x270.jpg 300w, /wp-content/uploads/2020/01/dreyfus.jpg 470w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-2573" class="wp-caption-text">This is important! This means something!</figcaption></figure>
+<ul>
+<li>Consider this context as you make editorial decisions, or as you decide how to interpret analytics results.</li>
+<li>Google Analytics is not revealing communiqués from Spielbergian extraterrestrials. When your plateau is distinct as it is in the example, it’s likely that you have a localized audience.</li>
+</ul>
+<p><a href="/wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1.png"><img loading="lazy" class="wp-image-2561 size-full aligncenter" src="/wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1.png 600w, /wp-content/uploads/2020/01/The-farther-from-DC-the-smoother-the-traffic-pattern-1-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="/wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03.png"><img loading="lazy" class="size-full wp-image-2558 aligncenter" src="/wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03.png 600w, /wp-content/uploads/2020/01/WBUR-Exhibits-the-Same-Pattern-03-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h2><span style="font-weight: 400;">If: Your traffic features distinct peaks:</span></h2>
+<h2><span style="font-weight: 400;">Then: Your users are largely choosing to engage with your property at the beginning and close of each day.</span></h2>
+<p><a href="/wp-content/uploads/2020/01/Cat-Ears-Pattern-1.png"><img loading="lazy" class="size-full wp-image-2560 aligncenter" src="/wp-content/uploads/2020/01/Cat-Ears-Pattern-1.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/Cat-Ears-Pattern-1.png 600w, /wp-content/uploads/2020/01/Cat-Ears-Pattern-1-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It might be worthwhile to review sessions per user per day to understand whether for your site this pattern indicates that users are coming twice each day, or that there are two cohorts of users who respectively visit in the morning and evening.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To understand what your users are doing during peaks, identify your peak hours and then see what sources of acquisition are strongest during peaks compared to the rest of the day.</span></li>
+</ul>
+<p><span style="font-weight: 400;">This pattern could indicate that your site’s engagement is driven by the commute, especially if it’s especially pronounced for your mobile users.</span></p>
+<h2><span style="font-weight: 400;">If: Your weekday traffic exhibits a sharp morning incline, then a slow decline for the rest of the day:</span></h2>
+<h2><span style="font-weight: 400;">Then: Your audience has good reason to check in with you first thing, but you aren’t providing as compelling a reason to return later in the day.</span><a href="/wp-content/uploads/2020/01/Whale-Pattern.png"><img loading="lazy" class="size-full wp-image-2562 aligncenter" src="/wp-content/uploads/2020/01/Whale-Pattern.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2020/01/Whale-Pattern.png 600w, /wp-content/uploads/2020/01/Whale-Pattern-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></h2>
+<p><span style="font-weight: 400;">If you see this pattern in your site, consider whether it&#8217;s a strategic priority to attract more users throughout the afternoon. If so:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Consider regularly publishing some content in the afternoon, so your users can have a reason to return after their morning session.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If you’re sending newsletters in the mornings, check to see how much newsletter traffic is responsible for your morning peak. If its effect is negligible, consider some A/B tests around sending the newsletter in the afternoons instead.</span></li>
+</ul>
+<h2><b>Now you try!</b></h2>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Start by adding this report: </span><a href="https://analytics.google.com/analytics/web/template?uid=TtIV35NvQaG2IRNCKFKARA"><b>SessionData Extract|v01</b></a><span style="font-weight: 400;"> to the Google Analytics instance for the property you’d like to measure. <a href="/wp-content/uploads/2020/01/Import-Custom-report.png"><img loading="lazy" class="aligncenter wp-image-2564 size-full" src="/wp-content/uploads/2020/01/Import-Custom-report.png" alt="" width="755" height="330" srcset="/wp-content/uploads/2020/01/Import-Custom-report.png 755w, /wp-content/uploads/2020/01/Import-Custom-report-300x131.png 300w" sizes="(max-width: 755px) 100vw, 755px" /></a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Set a recent date-range which results in no more than 5,000 rows of data in the report; that should give you plenty of space to extract a full year’s worth of data.<a href="/wp-content/uploads/2020/01/set-date-range-in-custom-report.png"><img loading="lazy" class="aligncenter wp-image-2565 size-full" src="/wp-content/uploads/2020/01/set-date-range-in-custom-report.png" alt="" width="861" height="461" srcset="/wp-content/uploads/2020/01/set-date-range-in-custom-report.png 861w, /wp-content/uploads/2020/01/set-date-range-in-custom-report-300x161.png 300w, /wp-content/uploads/2020/01/set-date-range-in-custom-report-768x411.png 768w" sizes="(max-width: 861px) 100vw, 861px" /></a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Set the report to show the maximum 5,000 rows, then export this report to google sheets.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Open this template google sheet I’ve built. The template is view-only so <strong>make a copy for yourself </strong>so you can edit. </span><a href="https://docs.google.com/spreadsheets/d/1dS09d_ajIUdh-R501eJ0gZCh-FiYOpVCwbiBNaXfEWA/edit?usp=sharing"><span style="font-weight: 400;">TEMPLATE &#8211; Time of Day Comparison</span></a><a href="/wp-content/uploads/2020/01/template-screenshot.png"><img loading="lazy" class="size-full wp-image-2566 aligncenter" src="/wp-content/uploads/2020/01/template-screenshot.png" alt="" width="989" height="300" srcset="/wp-content/uploads/2020/01/template-screenshot.png 989w, /wp-content/uploads/2020/01/template-screenshot-300x91.png 300w, /wp-content/uploads/2020/01/template-screenshot-768x233.png 768w" sizes="(max-width: 989px) 100vw, 989px" /></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Now, copy the data from your exported google analytics report into the <strong>TABLE tab</strong> of your copy of the google sheet. The charts on the subsequent tabs will populate with the data you’ve added. Which of the described patterns or BizLab cohort station patterns does your traffic most closely resemble? Take a screenshot and tweet me your results at <a href="https://twitter.com/ted_fuller">@Ted_Fuller</a>!</span></li>
+</ol>
+<p><b>Advanced:</b><span style="font-weight: 400;"> Apply custom segments to the SessionData Extract report to extract data for specific segments, i.e. regions, activities, demographics etc. Then, compare the data you’ve collected!</span></p>
+<p><a href="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekday.png"><img loading="lazy" class="size-full wp-image-2567 aligncenter" src="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekday.png" alt="" width="960" height="540" srcset="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekday.png 960w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekday-300x169.png 300w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekday-768x432.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></a> <a href="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekend.png"><img loading="lazy" class="size-full wp-image-2568 aligncenter" src="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekend.png" alt="" width="960" height="540" srcset="/wp-content/uploads/2020/01/Small-Multiples-Map-Weekend.png 960w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekend-300x169.png 300w, /wp-content/uploads/2020/01/Small-Multiples-Map-Weekend-768x432.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+<p>I&#8217;d like to thank Amira Valliani of <a href="https://www.glow.fm/">glow.fm</a> and Joan DiMicco of the <a href="/">WBUR Bizlab</a> for inspiring this article.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Summit Panel: Text Messaging and Public Radio Donations</title>
+		<link>/2020/01/summit-panel-text-messaging-and-public-radio-donations/</link>
+		
+		<dc:creator><![CDATA[Joan DiMicco]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2020 20:25:40 +0000</pubDate>
+				<category><![CDATA[2019 Summit]]></category>
+		<category><![CDATA[News from the Lab]]></category>
+		<category><![CDATA[Donations]]></category>
+		<category><![CDATA[GiveLively]]></category>
+		<category><![CDATA[GroundSource]]></category>
+		<category><![CDATA[Hustle]]></category>
+		<category><![CDATA[KALW]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<category><![CDATA[WLRN]]></category>
+		<guid isPermaLink="false">/?p=2706</guid>
+
+					<description><![CDATA[There are more technologies than ever that are specifically designed to make the donation and engagement process more streamlined for listeners. In this panel, three stations that have effectively integrated text messaging tools into their existing donor strategies will discuss best practices in different contexts. Moderator: Joan DiMicco, Executive Director, BizLab, WBUR Panelists: Tina Pamintuan, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There are more technologies than ever that are specifically designed to make the donation and engagement process more streamlined for listeners. In this panel, three stations that have effectively integrated text messaging tools into their existing donor strategies will discuss best practices in different contexts.</p>
+<p><iframe loading="lazy" title="Text Messaging and Public Radio Donations (2019 BizLab Summit)" width="580" height="326" src="https://www.youtube.com/embed/gNJL4AWm324?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><strong>Moderator: </strong></p>
+<p>Joan DiMicco, Executive Director, BizLab, WBUR</p>
+<p><strong>Panelists: </strong></p>
+<p>Tina Pamintuan, General Manager, KALW, using <a href="https://www.givelively.org/">Give Lively</a> for donations</p>
+<p>Katie Lepri, Engagement Producer, WLRN, using <a href="https://www.groundsource.co/">GroundSource</a> for audience engagement</p>
+<p>Kathleen Moura, Membership Manager, WBUR, using <a href="https://www.hustle.com/">Hustle</a> for donor engagement</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Summit: Full Day Live Stream</title>
+		<link>/2019/12/summit-full-day-live-stream/</link>
+		
+		<dc:creator><![CDATA[Joan DiMicco]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2019 21:11:50 +0000</pubDate>
+				<category><![CDATA[2019 Summit]]></category>
+		<category><![CDATA[News from the Lab]]></category>
+		<category><![CDATA[BizLab Methods]]></category>
+		<category><![CDATA[CapRadio]]></category>
+		<category><![CDATA[Donations]]></category>
+		<category><![CDATA[GiveLively]]></category>
+		<category><![CDATA[glow.fm]]></category>
+		<category><![CDATA[GroundSource]]></category>
+		<category><![CDATA[Hustle]]></category>
+		<category><![CDATA[KALW]]></category>
+		<category><![CDATA[KUOW]]></category>
+		<category><![CDATA[LPM]]></category>
+		<category><![CDATA[NHPR]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[PRX]]></category>
+		<category><![CDATA[VPR]]></category>
+		<category><![CDATA[WAMU]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<category><![CDATA[WDET]]></category>
+		<category><![CDATA[WLRN]]></category>
+		<guid isPermaLink="false">/?p=2716</guid>
+
+					<description><![CDATA[On December 10, 2019, over 100 individuals from media organizations, including many NPR stations, convened for a day of learning. The Summit was a fast-paced day of lightning talks and panel discussions, with invited speakers and station innovators sharing their stations’ new paths to sustainability. We shared best practices, tools, tips, and real life examples [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>On December 10, 2019, over 100 individuals from media organizations, including many NPR stations, convened for a day of learning. The Summit was a fast-paced day of lightning talks and panel discussions, with invited speakers and station innovators sharing their stations’ new paths to sustainability.</p>
+<p>We shared best practices, tools, tips, and real life examples of this work, enabling attendees to hit the ground running at their own media organizations. The Summit covered revenue generation through digital audience engagement, spinning off new brands, event monetization, text-to-donate platforms, and podcast donation strategies.</p>
+<p>https://youtu.be/dIqNF0-vSXg</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Revenue From Event Donations &#038; Ticket Sales</title>
+		<link>/2019/10/new-revenue-from-event-donations-ticket-sales/</link>
+		
+		<dc:creator><![CDATA[Sarah Barden]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2019 03:37:09 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[Donations]]></category>
+		<category><![CDATA[Selling Tickets]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=2353</guid>
+
+					<description><![CDATA[This is the third post of a three part series about BizLab’s work with WBUR CitySpace. This post discusses two donation experiments and modeling of ticket sales revenue. If your station hosts events and has been unsure about how to ask for donations and approach ticket pricing, this post is for you! [I’m Sarah Barden, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">This is the third post of a <a href="/2019/08/identifying-revenue-potential-for-events-at-wbur-cityspace/">three part series about BizLab’s work with WBUR CitySpace</a>. This post discusses two donation experiments and modeling of ticket sales revenue. If your station hosts events and has been unsure about how to ask for donations and approach ticket pricing, this post is for you!</span></p>
+<blockquote><p><i><span style="font-weight: 400;">[I’m Sarah Barden, a BizLab Summer Fellow investigating revenue streams for WBUR CitySpace. I just graduated from a dual degree program between</span></i><a href="https://www.wellesley.edu/"> <i><span style="font-weight: 400;">Wellesley College</span></i></a><i><span style="font-weight: 400;"> and</span></i><a href="http://www.olin.edu/"> <i><span style="font-weight: 400;">Olin College</span></i></a><i><span style="font-weight: 400;"> studying mathematics, engineering, and user experience design, and I&#8217;ve started a Master’s in</span></i><a href="https://mem.dartmouth.edu/"> <i><span style="font-weight: 400;">Engineering Management at Dartmouth</span></i></a><i><span style="font-weight: 400;"> this fall.]</span></i></p></blockquote>
+<p><span style="font-weight: 400;">Two main ways to generate revenue from your audience at events are through tickets sales and donations. Making revenue through tickets sales has been CitySpace’s main source of audience revenue so far, with about $58,000 in net ticket revenue for events since opening in February, through the end of July. </span></p>
+<h3><b>Asking for Donation at Events</b></h3>
+<p><span style="font-weight: 400;">Prior to this summer, CitySpace had not asked event attendees for donations. Based on our data analysis, that over 70% of our attendees are not WBUR donors, yet the majority of event attendees are WBUR listeners and familiar with WBUR&#8217;s events and content. </span></p>
+<p>Because of this, we hypothesized this audience was primed to give to WBUR&#8217;s CitySpace.  So we decided to test asking for donations both at the event and at the moment of ticket purchase. <span style="font-weight: 400;">For our testing, we used two different platforms: </span><a href="https://www.givelively.org/"><span style="font-weight: 400;">GiveLively,</span></a> a donation platform, <span style="font-weight: 400;">and </span><a href="https://www.ovationtix.com/"><span style="font-weight: 400;">OvationTix</span></a><span style="font-weight: 400;">, our existing ticketing system. </span></p>
+<p><span style="font-weight: 400;">We first used </span><a href="https://www.givelively.org/"><span style="font-weight: 400;">GiveLively</span></a><span style="font-weight: 400;"> to test live donations asks during events at CitySpace. The GiveLively fundraising platform is free for nonprofits that includes text-to-initiate donations and a live display showing real-time donations. During events, we could project a screen with instructions on how to donate: </span><a href="/wp-content/uploads/2019/10/givelivelyonscreen.jpg"><img loading="lazy" class="aligncenter wp-image-2357" src="/wp-content/uploads/2019/10/givelivelyonscreen-1024x768.jpg" alt="" width="350" height="262" srcset="/wp-content/uploads/2019/10/givelivelyonscreen-1024x768.jpg 1024w, /wp-content/uploads/2019/10/givelivelyonscreen-300x225.jpg 300w, /wp-content/uploads/2019/10/givelivelyonscreen-768x576.jpg 768w, /wp-content/uploads/2019/10/givelivelyonscreen.jpg 1280w" sizes="(max-width: 350px) 100vw, 350px" /></a></p>
+<p><a href="/wp-content/uploads/2019/10/givelively.jpg"><img loading="lazy" class="wp-image-2358 alignright" src="/wp-content/uploads/2019/10/givelively-498x1024.jpg" alt="" width="286" height="588" srcset="/wp-content/uploads/2019/10/givelively-498x1024.jpg 498w, /wp-content/uploads/2019/10/givelively-146x300.jpg 146w, /wp-content/uploads/2019/10/givelively-768x1579.jpg 768w, /wp-content/uploads/2019/10/givelively.jpg 778w" sizes="(max-width: 286px) 100vw, 286px" /></a></p>
+<p><span style="font-weight: 400;">When attendees text “cityspace” to the number 44-321, they receive a donation link where they can donate using Google/Apple Pay or credit/debit card. The mobile-friendly webpage is shown below:  </span></p>
+<p><span style="font-weight: 400;">We made asks at three different events, receiving $216 in donations from 11 donors. There were 306 attendees total over these three events, so only 3.6% of attendees donated, and donated an average of $19.64 per donation. We had widely varied results across events: most of the 11 donations came from just one event, which we suspect has to do with the emotional content of the event, inspiring people to donate. </span></p>
+<h3><b>Asking for Donations at Ticket Purchase</b></h3>
+<p><span style="font-weight: 400;">After the event donation experiments, we turned on the ability for people to donate to WBUR CitySpace while purchasing or reserving tickets through our ticketing system, </span><a href="https://www.ovationtix.com/"><span style="font-weight: 400;">OvationTix</span></a><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">In the first two weeks this capability was on, we received $167 from 27 donors. There were 585 ticket transactions total, so 4.6% of ticket buyers added a donation &#8212; a higher percentage than asking for donations with GiveLively at events.</span></p>
+<p><span style="font-weight: 400;">There was an average of $6.19 per donation, which was significantly less than the average donation through GiveLively. This is likely due to the recommended donation amounts displayed. As seen in the screenshots below, the OvationTix preset amounts were 5, 10, 25, and 50, whereas in the GiveLively test, the presets were 10, 25, 50, and 100. </span></p>
+<p><a href="/wp-content/uploads/2019/10/ovationtix2.png"><img loading="lazy" class="aligncenter wp-image-2356" src="/wp-content/uploads/2019/10/ovationtix2-1024x504.png" alt="" width="598" height="294" srcset="/wp-content/uploads/2019/10/ovationtix2-1024x504.png 1024w, /wp-content/uploads/2019/10/ovationtix2-300x148.png 300w, /wp-content/uploads/2019/10/ovationtix2-768x378.png 768w, /wp-content/uploads/2019/10/ovationtix2.png 1600w" sizes="(max-width: 598px) 100vw, 598px" /></a></p>
+<p><span style="font-weight: 400;">Our experiments found that the effort to raise donations at events was high (because of our team needing to break the event flow and coach people on texting to donate) and the yield was lower than the zero effort approach of asking ticket purchasers for donations. Our team will continue to run experiments, including one where OvationTix is set to the same preset amounts as GiveLively, to compare more easily. But our overall conclusion is that donations are best asked at the time of ticket purchase. </span></p>
+<h3><b>Ticket Pricing</b></h3>
+<p><span style="font-weight: 400;">Ticket sales were an existing revenue stream for CitySpace, and we wanted to analyze ways in which this revenue could be increased. </span><span style="font-weight: 400;">Since opening, most events at CitySpace were priced between $0 to $20. We hosted 17 free events, 5 $5 events, 17 $10 events, 12 $15 events, 7 $20 events, and 1 $50 event. </span></p>
+<p><span style="font-weight: 400;">In the survey discussed in <a href="/2019/10/surveying-your-audience-to-identify-revenue-opportunities/">my prior post</a>, we found that price was not a driving factor in attending (which indicates price flexibility) and we received comments about pricing such as “</span><i><span style="font-weight: 400;">Very reasonably priced which makes it affordable for a broader audience than many other events.” ($20 show) and “Thank you for making this affordable for the whole family.” ($20 show). </span></i></p>
+<p><span style="font-weight: 400;">This led us to believe that we could raise prices for certain events, but how much and when? <strong>Our </strong></span><strong>CitySpace team wants to keep <i>some </i>low prices to have an economically, geographically, and racially diverse audience. Raising the price of all events to $50+ would make events economically out of reach for a desired population. But tickets can not always be free or below cost, because CitySpace needs to remain financially sustainable. </strong></p>
+<p><span style="font-weight: 400;">More evidence for raising ticket prices is the relationship between ticket prices and attendance. In analyzing audience data, we found that that a lower ticket price is correlated with lower attendance. In the chart below, each of the vertical bars is one CitySpace event and the height of the bar is percent of ticket purchasers who attended. If 200 people bought tickets and 100 people came, the bar would be at 50% attendance. The data shows that as the price for events decreases, the percentage of attendees decreases. This relationship makes sense because the more you have financially invested in an event, the more likely it is that you will want to cash in on that investment by attending the event.  </span></p>
+<p><a href="/wp-content/uploads/2019/10/graph-e1571106617416.png"><img loading="lazy" class="aligncenter wp-image-2360" src="/wp-content/uploads/2019/10/graph-e1571106617416.png" alt="" width="660" height="355" srcset="/wp-content/uploads/2019/10/graph-e1571106617416.png 990w, /wp-content/uploads/2019/10/graph-e1571106617416-300x161.png 300w, /wp-content/uploads/2019/10/graph-e1571106617416-768x413.png 768w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>
+<p><span style="font-weight: 400;">Because CitySpace wants to have some free and low cost tickets to not exclude any groups from attending, a mechanism for addressing the willingness of some to pay higher prices is variable pricing, which is offering different ticket prices for different levels of perks at an event. </span></p>
+<p><span style="font-weight: 400;">Variable pricing is also a way to increase the number of attendees at an event. If tickets are $20, that might attract 100 people to the event. If there is also a discount ticket price for $10, it can attracts students, senior, or low-income individuals that otherwise would not have come. If there is also a high ticket price for $40 with better seats, for example, this attracts people who have more disposable income and perceive an added value for attending.</span></p>
+<p><span style="font-weight: 400;">In analytical terms, a flat price of $20 might only make $2,000 in revenue, but with three different ticket prices, revenue increases to $3,000. The 100 people who bought regular tickets will still attend the event, but different ticket prices attract new buyers, as outlined in the table below:</span></p>
+<table style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">
+<tbody>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><strong>Price</strong></td>
+<td style="text-align: center;"><strong>Tickets Bought</strong></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><strong>Price</strong></td>
+<td style="text-align: center;"><strong>Tickets Bought</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Discounted Price</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">$10</td>
+<td style="text-align: center;">20</td>
+</tr>
+<tr>
+<td style="text-align: center;">Regular Price</td>
+<td style="text-align: center;">$20</td>
+<td style="text-align: center;">100</td>
+<td></td>
+<td style="text-align: center;">$20</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td style="text-align: center;">Higher Price</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">$40</td>
+<td style="text-align: center;">20</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Total Revenue</strong></td>
+<td style="text-align: center;" colspan="2"><b>$2,000</b></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;" colspan="2"><b>$3,000</b></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">To predict future ticket sales revenue based on variable pricing, you can use spreadsheet calculations to plan out how many events of each ticket price you plan to hold. For example, say you plan to aim for 60 events in a year and want half to be free or low cost. Predicting the tickets sold per event and how many of each event will show the total revenue for those events. You can add to this basic model premium and discount pricing, to fine tune the model to determine where variable pricing will most increase revenue. </span></p>
+<table>
+<tbody>
+<tr>
+<td><strong>Event type</strong></td>
+<td><strong>Price of event</strong></td>
+<td><strong>Number of events</strong></td>
+<td><strong>Tickets sold per event</strong></td>
+<td><strong>Revenue</strong></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Free event</span></td>
+<td><span style="font-weight: 400;">$0</span></td>
+<td><span style="font-weight: 400;">10</span></td>
+<td><span style="font-weight: 400;">100</span></td>
+<td><span style="font-weight: 400;">$ &#8211;</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Low price event</span></td>
+<td><span style="font-weight: 400;">$10</span></td>
+<td><span style="font-weight: 400;">20</span></td>
+<td><span style="font-weight: 400;">100</span></td>
+<td><span style="font-weight: 400;">$ 20,000</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Standard event</span></td>
+<td><span style="font-weight: 400;">$25</span></td>
+<td><span style="font-weight: 400;">20</span></td>
+<td><span style="font-weight: 400;">100</span></td>
+<td><span style="font-weight: 400;">$ 50,000</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">High demand event</span></td>
+<td><span style="font-weight: 400;">$50</span></td>
+<td><span style="font-weight: 400;">10</span></td>
+<td><span style="font-weight: 400;">100</span></td>
+<td><span style="font-weight: 400;">$ 50,000</span></td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>60</strong></td>
+<td><strong>400</strong></td>
+<td><b>$ 120,000</b></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">The CitySpace team is currently testing variable pricing for events this fall, where higher ticket prices get front row seating and sometimes an extra gift, and they will be evaluating the revenue generated from these events.</span></p>
+<h3><b>Summary</b></h3>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For donations at events, we recommend choosing the ask strategy that works for you. <strong>In CitySpace’s case, using our ticketing platform to allow ticket purchasers to simply add on a donation was the best route forward,</strong> and doing live donation asks will only be done at a few events, since it is not feasible for the team to do live asks at all events. For events where your audience is seated for a long, unique event with breaks, like a conference, gala, or dinner, live asks may work very well.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Variable pricing is a wise move to increase revenue while keeping events affordable for certain populations.</strong> In particular, variable pricing can attract new attendees that would not have otherwise come. It is worth it to try this method at a few events to test out logistics, revenue amounts, and attendance.</span></li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Surveying Your Audience to Identify Revenue Opportunities</title>
+		<link>/2019/10/surveying-your-audience-to-identify-revenue-opportunities/</link>
+		
+		<dc:creator><![CDATA[Sarah Barden]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2019 02:07:03 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=2175</guid>
+
+					<description><![CDATA[This is the second post of a three part series about BizLab’s work with WBUR CitySpace. This post is about the survey we used to collect feedback about events and understand audience motivations. If your station wants to start surveying your audiences at events or if you want to learn more about survey design, this [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">This is the </span><a href="https://wp.me/p7r6Jl-uG"><span style="font-weight: 400;">second post of a three part series</span></a><span style="font-weight: 400;"> about BizLab’s work with WBUR CitySpace. This post is about the survey we used to collect feedback about events and understand audience motivations. If your station wants to start surveying your audiences at events or if you want to learn more about survey design, this post is for you! </span></p>
+<blockquote><p><i><span style="font-weight: 400;">[I’m Sarah Barden, a BizLab Summer Fellow investigating revenue streams for WBUR CitySpace. I just graduated from a dual degree program between</span></i><a href="https://www.wellesley.edu/"> <i><span style="font-weight: 400;">Wellesley College</span></i></a><i><span style="font-weight: 400;"> and</span></i><a href="http://www.olin.edu/"> <i><span style="font-weight: 400;">Olin College</span></i></a><i><span style="font-weight: 400;"> studying mathematics, engineering, and user experience design, and I&#8217;ve started a Master’s in</span></i><a href="https://mem.dartmouth.edu/"> <i><span style="font-weight: 400;">Engineering Management at Dartmouth</span></i></a><i><span style="font-weight: 400;"> this fall.]</span></i></p></blockquote>
+<h3><b><i>Goals of the Feedback Survey</i></b></h3>
+<p><span style="font-weight: 400;">Our learning goals for the survey were:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Get general feedback on events, both quantitative and qualitative</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understand what brings people to events</span></li>
+<li>Understand how people hear about our events</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Audience demographics</span></li>
+</ul>
+<p><span style="font-weight: 400;">This information reveal opportunities for new revenue. By combining these learnings with existing data about ticketing, attendance, and marketing efforts, we will be able to determine how our current pricing relates to value delivered. </span></p>
+<h3><b><i>Survey Design</i></b></h3>
+<p><span style="font-weight: 400;">I used <a href="http://surveymonkey.com/">SurveyMonkey</a> to create a 14-question survey to be conducted after events in CitySpace and distributed through post-show emails. We collected 164 responses in total, from 9 events. The survey questions were:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Which event did you attend at WBUR CitySpace?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Overall, how well did the event meet your expectations?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">How would you rate the following aspects of the event? Speaker/Performer(s), Host/Moderator(s), Length of event, Facilities, Audience Q&amp;A, Concessions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Would you recommend a WBUR CitySpace event to a friend? Why or why not?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">CitySpace is run by WBUR (Boston’s NPR News Station). Had you heard of WBUR before today?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">When deciding whether or not to attend this event, how important were the following? Topic, Speaker/Performer(s), Location at CitySpace, Date and Time, Price of Event.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">How did you hear about this event?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">How did you primarily get to this event?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We are considering creating a CitySpace membership. What perks would you like to see in CitySpace events membership?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">What age range do you fall into?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Which of the following categories best describes you?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">What gender do you identify as?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Which race/ethnicity best describes you?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If you would like to receive the WBUR CitySpace newsletter, please share your email here.</span></li>
+</ol>
+<h3><b><i>Response Collection In-Person vs. Email</i></b></h3>
+<p><span style="font-weight: 400;">Announcements were made at the beginning and end of the events asking people to complete the survey because this feedback would help us improve future events. After the event, we collected responses in the CitySpace lobby with one or two people asking attendees leaving the venue to fill out a short survey. We had one or two laptops, a tablet, or a link to fill out on a phone. The second collection method was a link to the survey in the post-show email, asking attendees to offer their feedback. </span></p>
+<p><span style="font-weight: 400;">Overall, we found that the in-person ask after the event generated more responses than the post-show email, but only if we were actively asking individuals for responses as they left and if we had enough devices to make the wait time as short as possible. The in-person ask was time and labor intensive, however, so if your team needs a simple survey solution, the post-show email ask can still bring in some responses.</span></p>
+<h3><b><i>Significant Survey Results</i></b></h3>
+<p><span style="font-weight: 400;">Overall, we had positive responses to our general feedback questions. 73% of survey respondents said the event they attended was “Better than expected” or “Much better than expected”, and each specific aspect (Speaker/Performer, Host/Moderator, Length of event, Facilities, Audience Q&amp;A, Concessions) was rated 4.4 or higher out of 5.0, except for Concessions, which was rated 3.8. </span></p>
+<p><span style="font-weight: 400;">The following charts are some of the more surprising or significant results of the survey beyond general feedback.</span></p>
+<h4><i>People attend CitySpace events for the topic, not the location or price.</i></h4>
+<p><span style="font-weight: 400;">We asked “In deciding whether or not to attend this event, how important were the following?” and respondents rated each aspect on a 5-point scale “Extremely important, Very important, Somewhat important, Slightly important, Not at all important”.</span></p>
+<p><span style="font-weight: 400;">The chart below shows that topic is the most influential factor for these survey respondents. Regardless of specific speakers, location, date/time, or price, <strong>people are coming for the topic of the event.</strong> The least important influences were location and price. </span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">For location, people would be willing to see this event somewhere else, but we can not change the location of CitySpace. </span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Because the price was also rated low in importance, we now know that people would be willing to pay more for topics they love.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Deciding-to-Attend.png"><img loading="lazy" class="wp-image-2178 aligncenter" src="/wp-content/uploads/2019/08/Deciding-to-Attend-300x121.png" alt="" width="508" height="205" srcset="/wp-content/uploads/2019/08/Deciding-to-Attend-300x121.png 300w, /wp-content/uploads/2019/08/Deciding-to-Attend-768x310.png 768w, /wp-content/uploads/2019/08/Deciding-to-Attend-1024x413.png 1024w, /wp-content/uploads/2019/08/Deciding-to-Attend.png 1116w" sizes="(max-width: 508px) 100vw, 508px" /></a></p>
+<h4><b><i>Most people come by car to CitySpace events</i></b></h4>
+<p><span style="font-weight: 400;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">We have heard anecdotally that transportation is a barrier to attending CitySpace events. </span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Driving a car in rush hour traffic and then finding parking near CitySpace can be difficult, but CitySpace is </span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">about 50 feet from a public transit train stop in Boston. Given this, we were surprised that about 50% of attendees reported traveling by car to our events. This may be due to the timing of events in the evening: if most people are driving a car to work, attending a 6pm event likely means they drive directly from work. For those taking public transit, the commute could be up to an hour for those coming from outside the immediate area. To bring new audiences to CitySpace, beyond the neighboring areas, we are now considering offering Lyft or Uber codes, or similar, to support those interested in the event but unable to commute to the location.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Getting-to-Events.png"><img loading="lazy" class="wp-image-2180 aligncenter" src="/wp-content/uploads/2019/08/Getting-to-Events-300x131.png" alt="" width="529" height="231" srcset="/wp-content/uploads/2019/08/Getting-to-Events-300x131.png 300w, /wp-content/uploads/2019/08/Getting-to-Events-768x335.png 768w, /wp-content/uploads/2019/08/Getting-to-Events-1024x447.png 1024w, /wp-content/uploads/2019/08/Getting-to-Events.png 1136w" sizes="(max-width: 529px) 100vw, 529px" /></a></p>
+<h4><b><i>People hear about CitySpace events in “Other” ways</i></b></h4>
+<p><span style="font-weight: 400;">We thought CitySpace&#8217;s email newsletter, website, and social media efforts were bringing in our audience. But almost 50% of survey respondents answered “Other” when responding to the question “How did you hear about this event?” This was very surprising to the CitySpace team! The free-form responses to “Other” mentioned friends, family and directly from the speakers. </span></p>
+<p><span style="font-weight: 400;">These responses are informing our marketing efforts. There may be ways to increase ticket sales through certain marketing channels, or use marketing efforts to offer discounts or special offers as ways to get more emails and more audience.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Hearing-About-Events.png"><img loading="lazy" class="wp-image-2181 aligncenter" src="/wp-content/uploads/2019/08/Hearing-About-Events-300x176.png" alt="" width="436" height="256" srcset="/wp-content/uploads/2019/08/Hearing-About-Events-300x176.png 300w, /wp-content/uploads/2019/08/Hearing-About-Events.png 718w" sizes="(max-width: 436px) 100vw, 436px" /></a></p>
+<h4><b><i>Most of the CitySpace audience are WBUR listeners, but not all are donors.</i></b></h4>
+<p><span style="font-weight: 400;">If you read the first post in this series, I shared this data in learning about CitySpace’s audience. When asked “Had you heard of WBUR before today?” 42% said “Yes, I’m a member” and 46% said “Yes, I’m a listener but not a member.” A listener who is not a member (donor) is a potential donor. </span><span style="font-weight: 400;">We hope to convert these attendees into WBUR donors by offering more engaging programming, and inspiring them to donate.</span></p>
+<p><span style="font-weight: 400;">The CitySpace team had thought attendees would be listeners, so were surprised that 12% of survey respondents were either not listeners or had not even heard of WBUR before attending an event.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Listeners.png"><img loading="lazy" class="wp-image-2183 aligncenter" src="/wp-content/uploads/2019/08/Listeners-300x266.png" alt="" width="369" height="327" srcset="/wp-content/uploads/2019/08/Listeners-300x266.png 300w, /wp-content/uploads/2019/08/Listeners-768x681.png 768w, /wp-content/uploads/2019/08/Listeners.png 918w" sizes="(max-width: 369px) 100vw, 369px" /></a></p>
+<h3><b><i>Edit your survey to only collect useful data, but keep it similar!</i></b></h3>
+<p><span style="font-weight: 400;">After a successful run of the summer survey, we reviewed these results and decided to continue surveying our audience, but to make changes to the survey. We removed the questions that we felt we had found the answer to and adjusted questions we thought could be simplified. </span></p>
+<p><span style="font-weight: 400;">We simplified some of the longer questions where respondents had to rate many aspects of the events on a relative scale. We also adjusted certain parts of the survey to be more specific, for example, the questions about ticket price. Overall, however, we kept the survey as similar as possible so that we could compare the results over time. </span></p>
+<h3><b><i>Summary</i></b></h3>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">In terms of what influences people to come to events, we found that the event&#8217;s topic on average was the most influential, followed by speaker/performer. In looking at specific events, such as a comedian or a podcast, speaker/performer outranks topic because the audience wanted to see that specific person. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Since price was in the bottom two for important factors influencing attendees, we can infer that price is less important, and therefore people may be willing to pay more for people or topics they really want to hear. This matches up with some survey comments that mention CitySpace prices as being “reasonable.”</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Half of event attendees learn about CitySpace events outside of CitySpace’s direct outreach, instead through word of mouth, and other social media. The CitySpace team can use this insight to change their strategy on CitySpace social media marketing and also take advantage of these other forms of marketing in order to increase ticket sales and awareness.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">With so many listeners attending CitySpace events who are not yet donors, we believe this is a prime opportunity for donation asks at events, when buying tickets, or through email asks. The next post will dive more into how we tested asking for donations.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Overall, if your team has the ability to collect data through a post-event survey, think carefully about the questions you ask, and know that you can try the survey for a few weeks and then edit the questions as needed, though keeping it similar enough to compare results over time. This data on events not only helps improve general event structure, but with asking questions about people’s motivations for attending events and how they feel about price, you can gain insight into how flexible your audience is on prices and what they value most about the venue.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Summer &#8217;19 BizLab Fellows: Takeaways from an Interview</title>
+		<link>/2019/09/summer-19-bizlab-fellows-takeaways-from-an-interview/</link>
+		
+		<dc:creator><![CDATA[Brian Kelley]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2019 01:53:25 +0000</pubDate>
+				<category><![CDATA[News from the Lab]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=2205</guid>
+
+					<description><![CDATA[This summer, BizLab was joined by three fellows, each from different disciplines, academic levels, and areas of expertise. Matt Aufiero was BizLab’s Affiliate Marketing fellow, Sarah Barden its Cityspace fellow, and I was its Marketing and Promotions fellow. Before our last day, I was able to interview Matt and Sarah. This provided me with a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">This summer, BizLab was joined by three fellows, each from different disciplines, academic levels, and areas of expertise. <a href="https://www.linkedin.com/in/matt-aufiero/">Matt Aufiero</a> was BizLab’s Affiliate Marketing fellow, <a href="https://www.linkedin.com/in/sbarden1/">Sarah Barden</a> its Cityspace fellow, and <a href="https://www.linkedin.com/in/brian-kelley-33728b17a/">I</a> was its Marketing and Promotions fellow. Before our last day, I was able to interview Matt and Sarah. This provided me with a chance to compare and contrast our experiences here at WBUR.</span></p>
+<p><span style="font-weight: 400;">The most common theme in our interview was how quickly we picked up on the unique world of public media. Working for a nonprofit media organization was new to all of us, but we were able to recognize the mission and sensibility right away. During our time with BizLab, each of us felt that we were able to expand our roles and learn about numerous opportunities within the industry. Not only did we have the ability to learn about the industry, but everyone we encountered was very supportive of the fellows. Everyone wanted to know how you were doing and wanted to help you find connections to further your career.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Children-Develop-Foundational-Social-Emotional-Skills-1-e1476731419771.png"><img loading="lazy" class="wp-image-2210 aligncenter" src="/wp-content/uploads/2019/08/Children-Develop-Foundational-Social-Emotional-Skills-1-e1476731419771-300x140.png" alt="" width="341" height="159" srcset="/wp-content/uploads/2019/08/Children-Develop-Foundational-Social-Emotional-Skills-1-e1476731419771-300x140.png 300w, /wp-content/uploads/2019/08/Children-Develop-Foundational-Social-Emotional-Skills-1-e1476731419771-768x358.png 768w, /wp-content/uploads/2019/08/Children-Develop-Foundational-Social-Emotional-Skills-1-e1476731419771.png 797w" sizes="(max-width: 341px) 100vw, 341px" /></a></p>
+<blockquote><p><span style="font-weight: 400;"><strong>Matt:</strong> At BizLab, we can wear multiple hats and experience a few different things. I like that in a role, because I can learn more about other opportunities that I’d be interested in.</span></p>
+<p><span style="font-weight: 400;"><strong>Sarah:</strong> It felt nice to be appreciated and I was happy to see my work influencing [the CitySpace team’s] decisions throughout the summer on how to incorporate my experiments into their work.</span></p>
+<p><span style="font-weight: 400;"><strong>Brian:</strong> Seeing the span of the work that BizLab is doing and being able to help stations find revenue streams is something that I definitely appreciate. BizLab also has a supportive and welcoming environment that has been great to be part of.</span></p></blockquote>
+<p><span style="font-weight: 400;">Another trend was that we learned about the industry by jumping into topics that we didn’t have a ton of experience with. None of us had worked professionally in the media industry before our fellowships, and my experiences were limited to working in college radio.</span></p>
+<p><a href="/wp-content/uploads/2019/08/1_ENgzTBvRp6OXiuejcGlZ-g.png"><img loading="lazy" class="wp-image-2208 aligncenter" src="/wp-content/uploads/2019/08/1_ENgzTBvRp6OXiuejcGlZ-g-300x172.png" alt="" width="315" height="181" srcset="/wp-content/uploads/2019/08/1_ENgzTBvRp6OXiuejcGlZ-g-300x172.png 300w, /wp-content/uploads/2019/08/1_ENgzTBvRp6OXiuejcGlZ-g.png 698w" sizes="(max-width: 315px) 100vw, 315px" /></a></p>
+<blockquote><p><span style="font-weight: 400;"><strong>Matt:</strong> I had never worked in the media industry before, so I needed to learn pretty quickly about what was acceptable in radio and what would be acceptable in public radio.</span></p>
+<p><span style="font-weight: 400;"><strong>Sarah:</strong> I didn’t know anything about planning events, so being on a team where they’re doing that all the time, I learned a lot.</span></p>
+<p><span style="font-weight: 400;"><strong>Brian:</strong> Going into the workshop with WLRN was interesting. It was my first day on the job and I was thrown right in, but it gave me a better idea of what we were doing at BizLab.</span></p></blockquote>
+<p><span style="font-weight: 400;">Our last takeaway was that failure can actually be a good thing. This isn’t something that is typically accepted in many schools and businesses, but our BizLab experience really taught us about the positive side of hearing “no”.</span></p>
+<p><a href="/wp-content/uploads/2019/08/do-you-learn-more-from-your-successes-than-from-your-failures.png"><img loading="lazy" class="wp-image-2209 aligncenter" src="/wp-content/uploads/2019/08/do-you-learn-more-from-your-successes-than-from-your-failures-300x169.png" alt="" width="302" height="170" srcset="/wp-content/uploads/2019/08/do-you-learn-more-from-your-successes-than-from-your-failures-300x169.png 300w, /wp-content/uploads/2019/08/do-you-learn-more-from-your-successes-than-from-your-failures.png 620w" sizes="(max-width: 302px) 100vw, 302px" /></a></p>
+<blockquote><p><span style="font-weight: 400;"><strong>Matt:</strong> I learned that a product doesn’t need to be perfect on the first try. Getting the product out there and testing it and trying to improve it from there is really important. If you are persistent and continue to work on your projects, you’ll get a result that you can tweak and improve upon.</span></p>
+<p><span style="font-weight: 400;"><strong>Sarah:</strong> The lean startup method that BizLab uses is great and I don’t think I’ve ever experienced it in a non-profit environment before.</span></p>
+<p><span style="font-weight: 400;"><strong>Brian:</strong> I’ve realized that you can learn from hearing “no” and that you can improve your product based on failures and roadblocks. There are steps that you can take to improve your product post-release, because it’s nearly impossible to satisfy 100% of your goal on the first try.</span></p></blockquote>
+<p><span style="font-weight: 400;">Working at BizLab over the past summer has truly been a great experience for each of us. We learned about the lean startup method, how to grow our audience, how to implement experiments into real world situations, and that hearing “no” allows you to learn and improve over time. We developed connections and worked with people from WBUR, VPR, WDET, WLRN, LPM, DCist, and CapRadio. Lastly, we’d like to thank Lindsy Goldberg, Joan DiMicco, Ted Fuller, Sarah Bloomer, and Nancy Mann for welcoming us to the BizLab team and supporting us throughout the summer. Learning about the media industry and working with BizLab has been an incredible experience that none of us will soon forget.</span></p>
+<figure id="attachment_2211" aria-describedby="caption-attachment-2211" style="width: 750px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2019/08/Screen-Shot-2019-08-29-at-11.03.44-AM.png"><img loading="lazy" class="wp-image-2211 size-large" src="/wp-content/uploads/2019/08/Screen-Shot-2019-08-29-at-11.03.44-AM-1024x600.png" alt="" width="750" height="439" srcset="/wp-content/uploads/2019/08/Screen-Shot-2019-08-29-at-11.03.44-AM-1024x600.png 1024w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-29-at-11.03.44-AM-300x176.png 300w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-29-at-11.03.44-AM-768x450.png 768w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-29-at-11.03.44-AM.png 1089w" sizes="(max-width: 750px) 100vw, 750px" /></a><figcaption id="caption-attachment-2211" class="wp-caption-text">The Summer 2019 BizLab team!</figcaption></figure>
+<p><i><span style="font-weight: 400;">Thank you for reading Brian Kelley’s 3rd and final blog post as BizLab’s Summer Marketing and Promotions Fellow.</span></i></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exploring the Potential of Affiliate Marketing: The Future</title>
+		<link>/2019/08/exploring-the-potential-of-affiliate-marketing-the-future/</link>
+		
+		<dc:creator><![CDATA[Ted Fuller]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2019 15:36:05 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[Affiliate Marketing]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=1992</guid>
+
+					<description><![CDATA[[This is Part 4 of a series of blog posts for WBUR BizLab’s Affiliate Marketing Project, funded by the Lenfest Institute.] While WBUR Guides did not turn a profit, the process of building the site and testing promotion methods revealed critical insights into the prospects for affiliate marketing within Public Media web properties.  WBUR’s Future [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">[This is Part 4 of a <a href="/tag/affiliate-marketing/">series of blog posts</a> for WBUR BizLab’s Affiliate Marketing Project, funded by the <a href="https://www.lenfestinstitute.org/innovation-grants/">Lenfest Institute.</a>]</span></i></p>
+<p><span style="font-weight: 400;">While WBUR Guides did not turn a profit, the process of building the site and testing promotion methods revealed critical insights into the prospects for affiliate marketing within Public Media web properties. </span></p>
+<h2>WBUR’s Future with Affiliate Marketing</h2>
+<p><span style="font-weight: 400;">Should we make a similar effort again, we’d use Facebook ads only for testing content and for email acquisition. Also, we now know not to embark on such an effort without </span><b>securing a commitment to promote the content extensively where our regular readers and listeners are most engaged, which is on-air and on www.wbur.org.</b></p>
+<p><span style="font-weight: 400;">At WBUR, we’ve seen steady year-over-year revenue growth from Amazon ever since we began inserting their affiliate links into our book articles in August of 2017:</span></p>
+<p><a href="/wp-content/uploads/2019/08/WBURs-Amazon-Affiliate-Revenue-Year-over-Year.png"><img loading="lazy" class="size-full wp-image-1993 aligncenter" src="/wp-content/uploads/2019/08/WBURs-Amazon-Affiliate-Revenue-Year-over-Year.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2019/08/WBURs-Amazon-Affiliate-Revenue-Year-over-Year.png 600w, /wp-content/uploads/2019/08/WBURs-Amazon-Affiliate-Revenue-Year-over-Year-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p><span style="font-weight: 400;">Amazon retail eCommerce sales in the US have shown consistent growth, and </span><a href="https://forecasts-na1.emarketer.com/5911eeb5aeb8830e3829e285/5b2c1abf81f26a0cacc016b2"><span style="font-weight: 400;">eMarketer</span></a><span style="font-weight: 400;"> projects further growth in the future for Amazon and US eCommerce sales in general. Barring unpredictable macro-trends in the economy, we expect that </span><b>consistently applied affiliate links on existing content will expand revenue each year for the near-future.</b></p>
+<p><a href="/wp-content/uploads/2019/08/Amazon-Retail-Ecommerce-Sales.png"><img loading="lazy" class="size-full wp-image-1995 aligncenter" src="/wp-content/uploads/2019/08/Amazon-Retail-Ecommerce-Sales.png" alt="" width="653" height="589" data-wp-editing="1" srcset="/wp-content/uploads/2019/08/Amazon-Retail-Ecommerce-Sales.png 1020w, /wp-content/uploads/2019/08/Amazon-Retail-Ecommerce-Sales-300x271.png 300w, /wp-content/uploads/2019/08/Amazon-Retail-Ecommerce-Sales-768x693.png 768w" sizes="(max-width: 653px) 100vw, 653px" /></a></p>
+<p><span style="font-weight: 400;">The clean and transparent design of the guides site attracted praise from our underwriting department, so we may work with them to repurpose the design of WBUR Guides for sponsored content. Additionally, the data yielded from our more than 120 ad tests will be helpful in focusing how we pitch sponsored content to potential underwriters. Thanks to those tests, we know that our audience is interested in women’s shoes and sustainable home goods, and we know that the audience coming from www.wbur.org is more receptive to content that is closer to journalism in its style.</span></p>
+<hr />
+<h2><strong>Our Advice to Public Media Organizations</strong></h2>
+<p>Following these tenets should help you prepare to engage in affiliate marketing at your organization and accurately measure  your audience&#8217;s reaction once you&#8217;re ready to promote it.</p>
+<ul>
+<li><strong>Begin by promoting Amazon affiliate links.</strong> The variety of products from their site means you can promote almost anything, and see what has traction. When you&#8217;ve identified your niche, find a vendor in CJ which caters to that category and take advantage of CJ&#8217;s higher commission.</li>
+<li><strong>Publish and test a variety of content, including different writing styles.</strong> The results may surprise you. Until we ran tests which proved otherwise, we&#8217;d expected vegetable delivery to outperform women&#8217;s shoes.</li>
+<li><strong>Track everything.</strong> Track each step that your audience takes so you can understand where they&#8217;re hitting snags, and determine which audience is most likely to yield product-clicks.</li>
+<li><strong>Organic Traffic is your most valuable asset.</strong> Work with your editorial team to integrate affiliate marketing content and promote affiliate content within your news site as much as is possible. The closer the affiliate content is to your core content the more your audience will embrace it.</li>
+<li><strong>Facebook is great for testing, but using it simply to advertise your content is unlikely to produce a profit.</strong> You&#8217;ll always pay more for your audience than they yield in referral fees.</li>
+</ul>
+<hr />
+<p>If you haven&#8217;t already, check out our previous <a href="/tag/affiliate-marketing/">posts in this series</a> on affiliate marketing: <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-challenge/">The Challenge</a>, <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-strategy/">The Strategy</a>, and <a href="/2019/08/affiliate-marketing-numbers-lessons/">The Numbers &amp; The Lessons</a>.</p>
+<p><span style="font-weight: 400;">If you have any questions about this experiment, or if you’re planning affiliate marketing content, please feel free to contact me at </span><a href="mailto:tbfuller@bu.edu"><span style="font-weight: 400;">tbfuller@bu.edu</span></a><span style="font-weight: 400;"> or on Twitter at <a href="https://twitter.com/ted_fuller">@ted_fuller</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exploring the Potential of Affiliate Marketing: Numbers &#038; Lessons</title>
+		<link>/2019/08/affiliate-marketing-numbers-lessons/</link>
+		
+		<dc:creator><![CDATA[Ted Fuller]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2019 14:30:16 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[Affiliate Marketing]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=1975</guid>
+
+					<description><![CDATA[[This is part 3 of a series of blog posts for WBUR BizLab’s Affiliate Marketing Project, funded by the Lenfest Institute.] As we approached the Affiliate Marketing project, we established key performance indicators (KPIs) to measure while testing, and to guide the refinement of our strategy. Both of our KPIs are based on product clicks [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">[This is part 3 of a <a href="/tag/affiliate-marketing/">series of blog posts</a> for WBUR BizLab’s Affiliate Marketing Project, funded by the <a href="https://www.lenfestinstitute.org/innovation-grants/">Lenfest Institute</a>.]</span></i></p>
+<p>As we approached the Affiliate Marketing project, <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-strategy/">we established key performance indicators (KPIs)</a> to measure while testing, and to guide the refinement of our strategy. Both of our KPIs are based on product clicks from our product guides on <a href="https://guides.wbur.org/">WBUR Guides</a> to retailer websites. Once users leave our site we can’t track which of them convert to purchase, so product clicks are the limit of our ability to track users from acquisition through to conversion.</p>
+<p>Our most important KPI for evaluating each promotional campaign is <strong>Product Click Rate</strong>. This allows us to judge varying audiences by indicating their relative likelihood to click one of our products.</p>
+<p style="text-align: center;"><em>Product Click Rate = Quantity of Product Clicks / Quantity of Users</em></p>
+<p>When comparing paid campaigns, the most important KPI is <strong>Cost-per-Product-Click</strong>. This makes it easy to understand which of your paid campaigns is arriving at your desired end-result most cost-effectively.</p>
+<p style="text-align: center;"><em><span style="font-weight: 400;">Cost Per Product Click = $ Cost of Campaign / Quantity of Product Clicks</span></em></p>
+<hr />
+<h2><strong>Traffic to Guides and Earnings from Amazon and CJ Affiliates</strong></h2>
+<p>Between site launch on May 23, 2019 and the close of the project July 31, 2019, more than <strong>39,000 users visited</strong> our site in over <strong>42,000 sessions.</strong></p>
+<ul>
+<li>That activity yielded <strong>$203.01</strong> in referral earnings from 111 purchases. (I’ll spare you the grisly details, but $203 is far less than we invested in Facebook ads.)</li>
+<li>77% of user purchases came from Amazon, and the rest from individual retailers registered with CJ Affiliates.</li>
+<li>Overall, we received a <strong>7.01% commission</strong> <strong>from our referred Amazon sales</strong>, and a <strong>12.76% commission from CJ</strong> Affiliates.</li>
+<li><strong>72% of our Amazon sales were for indirect purchases</strong> &#8211; i.e. users clicked one of our links, then bought something else entirely.</li>
+</ul>
+<hr />
+<h3 style="color: green;"><strong>Lesson: Begin with Amazon, then use CJ Affiliates</strong></h3>
+<p>Our advice is to start out with Amazon and test a variety of product reviews your audience may appreciate. Measure their ROI with analytics, and monitor the products for which you’ve earned referral revenue. When you’ve found a niche, use CJ Affiliates to connect with advertisers who may be paying higher commissions than Amazon. Our reasoning is:</p>
+<ul>
+<li>Amazon offers a greater variety of products which you can advertise, and you’ll earn revenue for any Amazon purchase made by your referred audience in the 24 hours after they clicked your referral link. That’s powerful when you consider that Amazon was responsible for <a href="https://www.digitalcommerce360.com/2019/02/27/amazon-grabs-a-third-of-us-ecommerce-sales-in-2018/">33.7% of the eCommerce market in 2018</a>.</li>
+<li>CJ Affiliates pays a higher commission but does not offer the above described advantage of cross-purchases. <span style="font-weight: 400;">Choosing the right niche will result in higher earnings from CJ, but reviewing unpopular niche products could lead to no revenue at all.</span></li>
+</ul>
+<hr />
+<h2><b>Most Successful Guide &amp; Product</b></h2>
+<p><a href="/wp-content/uploads/2019/08/FB-Ad-Shoes-27-1.png"><img loading="lazy" class="alignright wp-image-1982 size-full" src="/wp-content/uploads/2019/08/FB-Ad-Shoes-27-1-e1565793907258.png" alt="" width="345" height="612" srcset="/wp-content/uploads/2019/08/FB-Ad-Shoes-27-1-e1565793907258.png 345w, /wp-content/uploads/2019/08/FB-Ad-Shoes-27-1-e1565793907258-169x300.png 169w" sizes="(max-width: 345px) 100vw, 345px" /></a></p>
+<p><span style="font-weight: 400;">We published a total of 11 guides, covering 10 categories including sustainable home goods, women’s shoes, travel goods, fresh vegetable delivery, and reusable straws.</span></p>
+<p><span style="font-weight: 400;">Our audience was receptive &#8211; of the 120 users who answered our embedded survey, </span><b>87% said WBUR Guides are &#8220;useful,&#8221;</b><span style="font-weight: 400;"> and </span><b>82% want to see more Guides.</b></p>
+<p><span style="font-weight: 400;">Our guide to women’s shoes, </span><a href="https://guides.wbur.org/2019/05/09/the-six-most-comfortable-shoes-for-every-type-of-traveler/"><span style="font-weight: 400;">The Six Most Comfortable Shoes for Every Type of Traveler</span></a>,<span style="font-weight: 400;"> proved to be the most popular:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We ran a Facebook ad sending users to our homepage where we list all our published articles and </span>71%<span style="font-weight: 400;"> of those who clicked on an article chose to visit the guide to women’s shoes, despite its position as ten out of eleven in the list.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Our first run of Facebook ads tested fresh vegetable delivery, eyeglasses, women’s shoes, and children’s toys against each other, to determine which of our ads had the greatest appeal. Users who saw the ad for Women’s Shoes</span> <strong>clicked through at a 2.04%</strong><span style="font-weight: 400;"><strong> rate</strong>, more than twice the click-through-rate of any other ad in the test.</span></li>
+</ul>
+<p><span style="font-weight: 400;">The above described ad series yielded three shoe purchases; no other guide produced such immediate and consistent results. In particular, one shoe, the </span><a href="https://www.thewalkingcompany.com/p/lemhi/3611-6010"><b>Born Lemhi</b></a>, <span style="font-weight: 400;">produced more click-throughs and revenue than any other single product we advertised. Testing the image of that pair against our other featured women’s shoes in a series of Facebook ads, it yielded an ad click-through-rate four times greater than the other shoe options.</span></p>
+<hr />
+<h3 style="color: green;"><b>Lesson: Publish and Test a Variety of Content</b></h3>
+<p><span style="font-weight: 400;">Publish a variety of content and test it head-to-head using A/B testing. Find your niche by understanding which products attract an audience and then generate click-throughs and purchases. Before testing, we thought fresh vegetables and toys would perform better than women&#8217;s shoes!</span></p>
+<h3 style="color: green;"><b>Lesson: Track Everything</b></h3>
+<p><span style="font-weight: 400;">Before you begin to promote your content, be sure that you are prepared to track your audience’s response. You’ll need:</span></p>
+<ul>
+<li style="font-weight: 400;"><b>Google Analytics</b><span style="font-weight: 400;">: Install this on your site to track your site’s overall usage and analyze your audience.</span></li>
+<li style="font-weight: 400;"><b>Google Tag Manager</b><span style="font-weight: 400;">: Connect GTM to Google Analytics to track important actions such as product clicks as goals in Google Analytics. </span></li>
+<li style="font-weight: 400;"><b>Google URL Builder</b><span style="font-weight: 400;">: Every time you distribute a link to your content as part of a campaign, use this tool to set up UTM parameters, including a unique campaign name for each link. When users click those links and arrive at your site, the parameters you added allow Google Analytics to attribute that traffic to your specified campaign.</span></li>
+</ul>
+<p><span style="font-weight: 400;">When these tools are used together, you’ll be able to attribute each user and each product click to a campaign. That way, when you strike gold and a torrent of product clicks register, you’ll be able to understand which campaign sent those users and either repeat or refine your technique.</span></p>
+<p><span style="font-weight: 400;"><strong>Advertising platforms like Facebook can tell you what it cost to acquire the users, but not whether those users converted to product clicks.</strong> When using these analytics tools to connect the cost of the campaign to the end result of product-clicks, you’ll get a clearer sense of ROI.</span></p>
+<p><span style="font-weight: 400;">Finally, survey your affiliate marketing audience either through a marketing email or by embedding a survey on your site. Our survey collected ideas for further guides, and the overwhelmingly positive responses justified our effort to promote them on WBUR.org.</span></p>
+<hr />
+<h2><b>Sources of Traffic</b></h2>
+<p><span style="font-weight: 400;">Over the course of the experiment, we promoted the site with <b>104 Facebook ads</b>, </span><b>16 banner variations on www.wbur.org</b><span style="font-weight: 400;">, </span><b>2 mentions within articles on www.wbur.org</b><span style="font-weight: 400;">, </span><b>6 tweets</b><span style="font-weight: 400;">, and</span><span style="font-weight: 400;"> </span><b>1 marketing email.</b></p>
+<p><span style="font-weight: 400;">We saw the best product click-through-rates for audiences originating from www.wbur.org and from our email list. Paid traffic originating from Facebook was far less likely to click on one of our suggested products &#8211; even our most successful Facebook ad could not compete with the results from organic traffic.</span></p>
+<table>
+<tbody>
+<tr>
+<th>Source of Traffic</th>
+<th>Guide Click Rate</th>
+<th>Product Click Rate</th>
+<th>Aggregate Click Rate</th>
+<th>Cost Per Product Click</th>
+</tr>
+<tr>
+<td>WBUR.org &#8211; Header Banners</td>
+<td style="text-align: center;">3.13%</td>
+<td style="text-align: center;">5.27%</td>
+<td style="text-align: center;">0.17%</td>
+<td style="text-align: center;">FREE</td>
+</tr>
+<tr>
+<td>WBUR.org &#8211; Mid-page Banners</td>
+<td style="text-align: center;">3.35%</td>
+<td style="text-align: center;"><strong>15.23%</strong></td>
+<td style="text-align: center;">0.51%</td>
+<td style="text-align: center;">FREE</td>
+</tr>
+<tr>
+<td>WBUR.org &#8211; in-article mentions</td>
+<td style="text-align: center;">0.23%</td>
+<td style="text-align: center;">0.00%</td>
+<td style="text-align: center;">0.00%</td>
+<td style="text-align: center;">FREE</td>
+</tr>
+<tr>
+<td>Twitter &#8211; @WBURExtra</td>
+<td style="text-align: center;">0.19%</td>
+<td style="text-align: center;">0.00%</td>
+<td style="text-align: center;">0.00%</td>
+<td style="text-align: center;">FREE</td>
+</tr>
+<tr>
+<td>Facebook Ads &#8211; Overall</td>
+<td style="text-align: center;">2.95%</td>
+<td style="text-align: center;">4.26%</td>
+<td style="text-align: center;">0.13%</td>
+<td style="text-align: center;">$11.92</td>
+</tr>
+<tr>
+<td>Facebook Ads &#8211; Most Successful Ad</td>
+<td style="text-align: center;"><strong>8.23%</strong></td>
+<td style="text-align: center;">3.30%</td>
+<td style="text-align: center;">0.27%</td>
+<td style="text-align: center;">$4.17</td>
+</tr>
+<tr>
+<td>*Marketing Email</td>
+<td style="text-align: center;">16.67%</td>
+<td style="text-align: center;">100.00%</td>
+<td style="text-align: center;">16.67%</td>
+<td style="text-align: center;">FREE</td>
+</tr>
+</tbody>
+</table>
+<p>*This marketing email was a low-volume test with only 14 email addresses, but it showed encouraging results.</p>
+<h2><b>Successful WBUR.org Affiliate Articles</b></h2>
+<p><span style="font-weight: 400;">It has long been WBUR’s practice to use Amazon affiliate links when an editorial article makes reference to a book. These links appear in articles sharing lists of books, i.e. holiday gift guide or summer reading lists, as well as author interviews. This is an exception to the station&#8217;s overall guideline against posting affiliate marketing content on WBUR.org. </span></p>
+<div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p>While promoting WBUR Guides, WBUR/NPR’s On Point aired a show focused on summer reading and published a corresponding article with links to purchase the books at Amazon. The <a href="https://www.wbur.org/onpoint/2019/07/15/2019-summer-books-reading-list">summer reading list article</a> yielded over $1,600 in Amazon referral fees, all from organic traffic. Once their organic traffic slackened, we ran a Facebook ad <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">campaign promoting the summer reading list article.</span></p>
+</div>
+</div>
+</div>
+<p><a href="/wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Orders-vs-Site-Traffic-1.png"><img loading="lazy" class=" wp-image-1989 aligncenter" src="/wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Orders-vs-Site-Traffic-1.png" alt="" width="649" height="357" srcset="/wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Orders-vs-Site-Traffic-1.png 674w, /wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Orders-vs-Site-Traffic-1-300x165.png 300w" sizes="(max-width: 649px) 100vw, 649px" /></a></p>
+<p><span style="font-weight: 400;">The above chart follows the large number of orders (blue bars) as well as the page traffic for the summer reading list article (red line). The yellow line indicates the portion of that traffic sent from our paid Facebook ads. Our campaign successfully sent users to the article, but the visible gap in the chart between traffic and purchases indicates that users sent by Facebook ads were not as primed to make a purchase.  Before our campaign ran, </span><b>over 5%</b><span style="font-weight: 400;"> of the page’s audience made an order, <strong>earning $.08 cents per user</strong>. During the period of our campaign,</span><b> that dropped to 1.5% or only $0.02 cents per user</b><span style="font-weight: 400;">.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Earnings-vs.-Facebook-Ad-Spending.png"><img loading="lazy" class="size-full wp-image-1990 aligncenter" src="/wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Earnings-vs.-Facebook-Ad-Spending.png" alt="" width="600" height="371" srcset="/wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Earnings-vs.-Facebook-Ad-Spending.png 600w, /wp-content/uploads/2019/08/Summer-Reading-List_-Amazon-Earnings-vs.-Facebook-Ad-Spending-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p><span style="font-weight: 400;">This chart follows the </span><b>earnings generated by the article each day (green bars)</b><span style="font-weight: 400;"> as well as the </span><b>amount we invested in Facebook ads each day of our three-day campaign (red bars)</b><span style="font-weight: 400;">. Our campaign resulted in a somewhat anemic boost to earnings, and did not recoup the </span><b>$600</b><span style="font-weight: 400;"> spent on promotion.</span></p>
+<hr />
+<h3 style="color: green;"><b>Lesson: Organic Traffic is Necessary to Produce a Profit</b></h3>
+<p><span style="font-weight: 400;">Your station’s organic web traffic is your most precious resource in Affiliate Marketing; this audience is already engaged with your content, and you’re more likely to hold their interest through to a product click. </span><b>Work with your editorial team to expose your content to the readers of your news site as much as is possible.</b></p>
+<p><span style="font-weight: 400;">In our case, we couldn’t treat our guides as if they were regular news articles on WBUR.org, but we managed to extract concessions like inserting links to guides into relevant articles as well as promoting the content with banners on WBUR.org.</span></p>
+<p><span style="font-weight: 400;">You should expect push-back from your editorial team. Journalists may have an antipathy towards Affiliate Marketing in principle, as it departs from orthodox journalism standards. Get your foot in the door where you’re allowed and track your results, surveying your audience if possible. </span><b>If you can demonstrate that your content added value for the reader while earning income, you may have an easier time making your case for further affiliate marketing efforts.</b></p>
+<h3 style="color: green;">Lesson: Facebook ads will not turn a profit for affiliate marketing</h3>
+<p><span style="font-weight: 400;">You’ll always pay more for your audience than can wring out of them in referral fees. Consider using it instead as a tool for testing content or to acquire email addresses. Our Facebook ads only worked during the period when they ran. If instead you can get the user’s email address, you may continue to market your affiliate content to them at no cost using an email newsletter.</span></p>
+<hr />
+<h2><b>Writing Style</b></h2>
+<p><span style="font-weight: 400;">Over the course of the project, we hired two contributors with distinct voices. We asked our first author, <a href="https://guides.wbur.org/author/rebecca-palermo/">Rebecca Palermo</a> to write product reviews from a personal perspective, while we asked our second author, <a href="https://guides.wbur.org/author/rachel-brandt/">Rachel Brandt</a> to used a more explanatory style which more closely resembled journalism. We asked them to each write an article about sustainable home goods, then measured our audience’s reaction to each style.</span></p>
+<table>
+<tbody>
+<tr>
+<th>Writing Style</th>
+<th>Product CTR for WBUR Users from Banner Ads</th>
+<th>Product CTR for Facebook Users from Paid Ads</th>
+<th>Cost per Product Click for Facebook Users</th>
+</tr>
+<tr>
+<td><strong><span style="font-family: inherit; font-size: inherit;">Product reviews from a personal perspective</span></strong></td>
+<td style="text-align: center;">1.80%</td>
+<td style="text-align: center;"><strong>7.90%</strong></td>
+<td style="text-align: center;">$10.34</td>
+</tr>
+<tr>
+<td><strong>Explanatory style, closer to a journalistic approach</strong></td>
+<td style="text-align: center;"><strong>2.80%</strong></td>
+<td style="text-align: center;">6.00%</td>
+<td style="text-align: center;">$12.50</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Our results indicated that users coming from Facebook ads were more engaged with the product review writing-style. Meanwhile, those coming from WBUR.org banner ads appeared to find the explanatory journalism-style content more engaging.</span></p>
+<hr />
+<h3 style="color: green;"><b>Lesson: Test Different Writing Styles</b></h3>
+<p><span style="font-weight: 400;">Try different writing styles to see what is most effective at connecting with your users. Keep in mind that different acquisition methods may affect which content is most-appreciated by your users.</span></p>
+<p><span style="font-weight: 400;">In our case, our realization of the value of WBUR&#8217;s organic audience means that we’d stick with a writing style that looks and feels more like journalism, as it appears to capture the attention of that audience more effectively.</span></p>
+<hr />
+<p>Our next blog post in <a href="/tag/affiliate-marketing/">this series on affiliate marketing</a> will cover <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-future/">future prospects for affiliate marketing</a> within media organizations.</p>
+<p>If you haven&#8217;t already, check out our previous posts in this series on <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-challenge/">The Challenge</a> and <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-strategy/">The Strategy</a></p>
+<p><span style="font-weight: 400;">If you have any questions about this experiment, or if you’re planning affiliate marketing content, please feel free to contact me at </span><a href="mailto:tbfuller@bu.edu"><span style="font-weight: 400;">tbfuller@bu.edu</span></a><span style="font-weight: 400;"> or on Twitter at <a href="https://twitter.com/ted_fuller">@ted_fuller</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exploring the Potential of Affiliate Marketing: The Strategy</title>
+		<link>/2019/08/exploring-the-potential-of-affiliate-marketing-the-strategy/</link>
+		
+		<dc:creator><![CDATA[Matt Aufiero]]></dc:creator>
+		<pubDate>Sat, 17 Aug 2019 04:50:10 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[Affiliate Marketing]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=2050</guid>
+
+					<description><![CDATA[[This is Part 2 of a series of blog posts for WBUR BizLab’s Affiliate Marketing Project, funded by the Lenfest Institute.] Construction of the Guides Website To host our affiliate marketing experiments, our team developed a standalone site on WordPress. We called this WBUR Guides and integrated it as a subdomain of wbur.org at guides.wbur.org. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p><i><span style="font-weight: 400;">[This is Part 2 of a <a href="/tag/affiliate-marketing/">series of blog posts</a> for WBUR BizLab’s Affiliate Marketing Project, funded by the Lenfest Institute.]</span></i></p></blockquote>
+<h2>Construction of the Guides Website</h2>
+<p>To host our affiliate marketing experiments, our team developed a standalone site <span style="font-weight: 400;">on </span><a href="https://wordpress.com/"><span style="font-weight: 400;">WordPress</span></a><span style="font-weight: 400;">. We called this WBUR Guides and integrated it as a subdomain of <a href="http://wbur.org/">wbur.org</a> at <a href="https://guides.wbur.org/">guides.wbur.org</a>. In the individual Guides, we highlighted interesting and emerging products in the areas of health, fitness, gifts, travel, and culture. For each product we embedded affiliate links which sent users to external sites where interactions were tracked through CJ affiliate and Amazon’s Affiliate Program. When a reader navigated to an external site through our affiliate links, any purchase they made on that site generated an affiliate commission for WBUR.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-11.10.56-AM.png"><img loading="lazy" class="wp-image-2054 aligncenter" src="/wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-11.10.56-AM-1024x777.png" alt="" width="658" height="499" srcset="/wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-11.10.56-AM-1024x777.png 1024w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-11.10.56-AM-300x228.png 300w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-11.10.56-AM-768x583.png 768w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-11.10.56-AM.png 1445w" sizes="(max-width: 658px) 100vw, 658px" /></a></p>
+<p><span style="font-weight: 400;">We included a feedback form at the bottom of each guide and used the responses to help inform our content strategy.  The form included a field where respondents could enter their email to receive updates on future guides, effectively building out an email list for future promotions.  Finally, at the end of each guide we provided links to other guides to encourage continued browsing of our content.</span></p>
+<h2>Promotion Strategy</h2>
+<p><span style="font-weight: 400;">We promoted WBUR Guides through many different channels, some of which were ‘free’ channels owned and operated by WBUR, or WBUR’s ‘organic channels’ such as </span><a href="https://www.wbur.org/"><span style="font-weight: 400;">wbur.org</span></a><span style="font-weight: 400;">.  Specifically, on wbur.org, we were able to promote within banner ads on the top of the homepage and within banners displayed in the news feed, using unsold ad inventory.</span></p>
+<p><a href="/wp-content/uploads/2019/08/Top-Banner-womens-shoes.png"><img loading="lazy" class="aligncenter wp-image-2056 size-large" src="/wp-content/uploads/2019/08/Top-Banner-womens-shoes-1024x92.png" alt="Banner ad on wbur.org" width="750" height="67" srcset="/wp-content/uploads/2019/08/Top-Banner-womens-shoes-1024x92.png 1024w, /wp-content/uploads/2019/08/Top-Banner-womens-shoes-300x27.png 300w, /wp-content/uploads/2019/08/Top-Banner-womens-shoes-768x69.png 768w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>
+<p><a href="/wp-content/uploads/2019/08/VEG_TILE_300x250.png"><img loading="lazy" class="wp-image-2055 size-full aligncenter" src="/wp-content/uploads/2019/08/VEG_TILE_300x250.png" alt="tiled banner ad on wbur.org" width="300" height="250" /></a></p>
+<p><span style="font-weight: 400;">Another channel of promotion more closely tied to a readers organic experience on wbur.org was through in-article mentions. When an article was published that was closely tied to the topic of a guide, we would add in a text call-out that linked to the related guide. This method of posting links in relevant WBUR articles sent organic traffic from WBUR’s reader audience to our guides.</span></p>
+<p><a href="/wp-content/uploads/2019/08/article-insert.png"><img loading="lazy" class="wp-image-2057 size-medium aligncenter" src="/wp-content/uploads/2019/08/article-insert-300x200.png" alt="In-article mentions" width="300" height="200" srcset="/wp-content/uploads/2019/08/article-insert-300x200.png 300w, /wp-content/uploads/2019/08/article-insert-768x511.png 768w, /wp-content/uploads/2019/08/article-insert.png 856w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>We also wanted to experiment with Twitter as a promotion channel. The official <a href="https://twitter.com/WBUR">WBUR Twitter account</a> cannot be used for non-news content, but f<span style="font-weight: 400;">ortunately WBUR has another Twitter account, </span><a href="https://twitter.com/WBURExtra"><span style="font-weight: 400;">WBURExtra</span></a><span style="font-weight: 400;">, for any content falling outside of the news category. Although this account didn’t have as large a reach as WBUR’s primary Twitter account, testing promotions through WBUR Extra enabled us to gauge what levels of engagement might occur on the main account.</span></p>
+<p><span style="font-weight: 400;">If your organization&#8217;s social media accounts are strictly limited to news coverage, it may be beneficial to create a similar ‘extra’ account.  Spinning up a secondary Twitter account does not require new content creation but instead can be populated with content by retweeting posts from other Twitter account holders in your organization.</span></p>
+<h2>Paid Social Strategy</h2>
+<p>Facebook Ads played a major role in this project; with limited promotion on wbur.org, we needed to use Facebook, and specifically paid Facebook ads, to drive traffic to our site, to test our content&#8217;s effectiveness at driving affiliate revenue. We hoped to use Facebook&#8217;s advanced targeting abilities to send ads to users who resembles the audience of wbur.org, with the assumption that this audience would be equally apt to click through and make a purchase.</p>
+<p><span style="font-weight: 400;">With that in mind, we targeted Facebook ads towards individuals who had indicated NPR to be an interest of theirs, as well as individuals who had liked WBUR properties on Facebook such as </span><a href="https://www.wbur.org/onpoint"><span style="font-weight: 400;">On Point</span></a><span style="font-weight: 400;"> or </span><a href="https://www.wbur.org/hereandnow"><span style="font-weight: 400;">Here and Now</span></a><span style="font-weight: 400;">. We also tested targeting parameters like age, location and gender. </span></p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Additionally, we conducted tests around the creative style of our ads. For example, we knew that one pair of shoes was our best-selling item, so we A/B tested each available shoe color to determine which was most attractive to our audience (Brown).</span></p>
+<p>After each ad ran, we reviewed results and iterated rapidly. Within two months, we tested a total of 104 distinct individual ads.</p>
+<h2>Tracking &amp; Analytics</h2>
+<p><span style="font-weight: 400;">We prioritized implementing robust tracking as part of our web development effort. This ultimately led to better insights into which efforts drove the most engagement and financial results.  <strong>If tracking is not implemented at every step of the user experience, performance analysis will be based on aggregate data rather than focused on understanding how different components of the projects are working in relation to each other.</strong>  </span></p>
+<p><span style="font-weight: 400;">As an analogy, consider inventory turnover in a typical store. If we only know that, on average, products will sell twice per week, then we only have an aggregate level for product performance. However, if we were able to understand product performance on a more granular level we can begin to see that the best-selling item sells 20 times a week and the worst selling item only sells once per month. With this type of insight it is easy to imagine how a store owner could make more informed decisions about which products are stocked. This is the type of granularity we have strived to produce in our analytics in order to determine, for example, the best performing promotional channels. </span><span style="font-weight: 400;">This gives us insight into which tactics are working best so we know where our efforts are most productively spent.  From these insights, we iterate our approach to optimize the outcomes.</span></p>
+<p><span style="font-weight: 400;">At the start of the project, reports from </span><a href="https://analytics.google.com/analytics/web"><span style="font-weight: 400;">Google Analytics</span></a><span style="font-weight: 400;"> indicated how much traffic came to the site and reports from the affiliate networks indicated how much earnings we had accrued, but we lacked insight into which campaigns or promotions were driving or converting that traffic. To achieve those insights we leveraged <strong>UTM tags</strong> and <strong>Google Event Tracking</strong> to track the referral source and actions of each web user who visited a guide.</span></p>
+<h3>UTM Tagging</h3>
+<p><span style="font-weight: 400;">UTM tagging is when a web URL is modified with additional identifying information, allowing activity from users to be traced back to the promotion which sent them to our site. Tools such as </span><a href="https://ga-dev-tools.appspot.com/campaign-url-builder/"><span style="font-weight: 400;">Google Campaign URL Builder</span></a><span style="font-weight: 400;"> make creating URLs with UTM tags a breeze for marketers looking for more in depth analytics on how different campaigns are performing. Below is a screenshot of Google&#8217;s Campaign URL Builder, with our parameters filled out: </span></p>
+<p><a href="https://ga-dev-tools.appspot.com/campaign-url-builder/"><img loading="lazy" class="wp-image-2059 aligncenter" src="/wp-content/uploads/2019/08/Google-utm.png" alt="Google's Campaign URL Builder" width="719" height="806" srcset="/wp-content/uploads/2019/08/Google-utm.png 777w, /wp-content/uploads/2019/08/Google-utm-268x300.png 268w, /wp-content/uploads/2019/08/Google-utm-768x861.png 768w" sizes="(max-width: 719px) 100vw, 719px" /></a></p>
+<p><span style="font-weight: 400;">For example, if you are running two campaigns, one on Twitter and one on Facebook, you can create two distinct URLs to the same website with different UTM tags and use your analytics platform to understand whether promotions on Twitter or Facebook are driving traffic more effectively to the website.  The concept of UTM tagging can be expanded to any medium where links are placed online. <strong>Any time you promote a link to your site, use UTM tracking so you can trace the source of your visitors to a specific promotion.</strong></span></p>
+<h3>Defining our KPI as Product Clicks</h3>
+<p><span style="font-weight: 400;">In addition to tracking where users cam from, we were ultimately interested in how users behaved once they reach the site. To measure engagement with WBUR Guides content, we used clicks on suggested product links as our top key performance indicator(KPI).</span></p>
+<p><span style="font-weight: 400;">Ideally we would have liked to use actual product purchases as our KPI to measure engagement but our tracking could not extend to the external sites where our affiliate links lead, so we were unable to tie purchases back to specific efforts at promotion. Therefore, the closest proxy we have to actual purchases is clicks on affiliate links leading off our website. </span></p>
+<p><span style="font-weight: 400;">To measure individual product clicks, we integrated event tracking on our website through </span><a href="https://tagmanager.google.com/"><span style="font-weight: 400;">Google Tag Manager</span></a><span style="font-weight: 400;">.  Google Tag Manager allows us to define both tags and what behavior triggers those tags.  Tags and triggers work together to enable more granular tracking of events or actions taken on a website, whether that be a visitor to a site watching a video, filling out a form, or clicking a link.  By enabling tracking on these individual events we get a better sense of how individuals are engaging with our website. In WBUR Guides, we tracked each user who clicked a product link as an event. We then looked for promotion techniques which yielded audiences that generate a high proportion of product clicks.</span></p>
+<p><span style="font-weight: 400;">By integrating UTM tags in marketing efforts and building custom events around actions which measure visitor engagement on the site, one can pin down performance metrics to see how audiences across various campaigns are engaging with the content.  The next section on controlled experimentation will demonstrate the power of this approach.</span></p>
+<h2>Designing Controlled Experiments</h2>
+<p><span style="font-weight: 400;">Our team went through a process of running controlled experiments in order to test the effectiveness of our marketing efforts, evaluating our ad copy, ad creative, promotional channels, and ad targeting. For anyone running experiments, know that there are a few critical steps that should be taken to ensure your experiments are run in a controlled manner, so that you get the data to answer your core question. The following example, testing the effect of including the WBUR logo in our Facebook ads, will demonstrate how a controlled experiment should be set up.  </span></p>
+<p><span style="font-weight: 400;">It is crucial that every experiment has both a control group and an experimental group. Every aspect of the treatment (in this case the ad) should be exactly the same except for the one variable you are interested in testing, in our case the presence of the WBUR logo.  </span></p>
+<p><span style="font-weight: 400;">In our test, we constructed two different ads: one for our experimental group with the WBUR logo and the same exact ad without the logo for our control group. By setting up the experiment this way we were able to attribute differences between the two groups to the presence of the logo, because the logo is the only difference between the two conditions.</span></p>
+<p><a href="/wp-content/uploads/2019/08/FB-Ad-tech-gadgets-with-logo-25-1.png"><img loading="lazy" class="alignnone wp-image-2063 size-full" src="/wp-content/uploads/2019/08/FB-Ad-tech-gadgets-with-logo-25-1-e1565797327342.png" alt="" width="367" height="668" srcset="/wp-content/uploads/2019/08/FB-Ad-tech-gadgets-with-logo-25-1-e1565797327342.png 367w, /wp-content/uploads/2019/08/FB-Ad-tech-gadgets-with-logo-25-1-e1565797327342-165x300.png 165w" sizes="(max-width: 367px) 100vw, 367px" /></a> <a href="/wp-content/uploads/2019/08/FB-Ad-Tech-gadgets-without-logo-25-1.png"><img loading="lazy" class="alignnone wp-image-2064 size-full" src="/wp-content/uploads/2019/08/FB-Ad-Tech-gadgets-without-logo-25-1.png" alt="" width="350" height="663" srcset="/wp-content/uploads/2019/08/FB-Ad-Tech-gadgets-without-logo-25-1.png 350w, /wp-content/uploads/2019/08/FB-Ad-Tech-gadgets-without-logo-25-1-158x300.png 158w" sizes="(max-width: 350px) 100vw, 350px" /></a></p>
+<p><span style="font-weight: 400;">In our experiment we targeted the ads in both the control group and experimental group to individuals within the Boston DMA (Designated Market Area), as we presumed this to be the area where the presence of the logo would have the largest effect.</span></p>
+<p><span style="font-weight: 400;"><a href="/wp-content/uploads/2019/08/Screen-Shot-2019-08-15-at-2.52.06-PM.png"><img loading="lazy" class="aligncenter wp-image-2104 " src="/wp-content/uploads/2019/08/Screen-Shot-2019-08-15-at-2.52.06-PM-1024x439.png" alt="" width="473" height="203" srcset="/wp-content/uploads/2019/08/Screen-Shot-2019-08-15-at-2.52.06-PM-1024x439.png 1024w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-15-at-2.52.06-PM-300x128.png 300w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-15-at-2.52.06-PM-768x329.png 768w, /wp-content/uploads/2019/08/Screen-Shot-2019-08-15-at-2.52.06-PM.png 1172w" sizes="(max-width: 473px) 100vw, 473px" /></a> </span></p>
+<p><span style="font-weight: 400;">The Ad Click Rate was very similar for both ads (1.49% and 1.69%) and this small difference could be attributed to chance. However, for individuals who clicked on the ad when the logo was present, the subsequent Product Click Rate to affiliate products on external sites, measured through our event tracking, was much higher (8.05%, compared to 5.49%).  This suggests that when the WBUR logo is present in a Facebook ad, individuals clicking on the ad are more likely to continue on to click from the WBUR Guides content to the product website. <strong>If we had not instrumented our ads for Product Click Rate and if we had changed multiple aspects of the ads, we would not be able to make this conclusion. </strong></span></p>
+<h2>Takeaways</h2>
+<p><span style="font-weight: 400;">Building a WordPress property to host your content is not where you should focus your development time. it is much more important to correctly instrument your ads and your site with the right UTM tags and event tracking. Without tracking you will not know why your project is (or isn&#8217;t) working. </span></p>
+<p><span style="font-weight: 400;">Running controlled experiments requires a scientific approach where only the variable of interest is manipulated. It is necessary to have a control group which provides a benchmark to gauge the effect of the variable of interest. The </span><a href="https://business.facebook.com/adsmanager/"><span style="font-weight: 400;">Facebook Ads Manager</span></a><span style="font-weight: 400;"> has built in A/B testing capabilities which will facilitate your process of running controlled experiments.  </span></p>
+<p><span style="font-weight: 400;">Our next blog posts in <a href="/tag/affiliate-marketing/">this series on affiliate marketing</a> will cover </span><span style="font-weight: 400;"><a href="/2019/08/affiliate-marketing-numbers-lessons/">the results</a> of WBUR Guides</span><span style="font-weight: 400;"> and <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-future/">prospects for </a></span><span style="font-weight: 400;">the future</span><span style="font-weight: 400;"> of affiliate marketing within WBUR and public media. </span></p>
+<p><span style="font-weight: 400;">If you haven&#8217;t already, check out our first blog post in this series: <a href="/2019/08/exploring-the-potential-of-affiliate-marketing-the-challenge/">Exploring the Potential of Affiliate Marketing: The Challenge</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Identifying Revenue Potential For Events at WBUR CitySpace</title>
+		<link>/2019/08/identifying-revenue-potential-for-events-at-wbur-cityspace/</link>
+		
+		<dc:creator><![CDATA[Sarah Barden]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2019 16:31:38 +0000</pubDate>
+				<category><![CDATA[BizLab Experiments]]></category>
+		<category><![CDATA[BizLab Fellows]]></category>
+		<category><![CDATA[Selling Tickets]]></category>
+		<category><![CDATA[WBUR]]></category>
+		<guid isPermaLink="false">/?p=1902</guid>
+
+					<description><![CDATA[This post is the first of a three part series about BizLab’s work with WBUR CitySpace. WBUR CitySpace is WBUR’s state-of-the-art multimedia venue that opened in February 2019 hosting a wide array of events, such as live podcasts, stage performances, comedy events, screenings, and more. This summer we analyzed the revenue from previous events, surveyed [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">This post is the first of a three part series about BizLab’s work with WBUR CitySpace. </span><a href="http://wbur.org/cityspace"><span style="font-weight: 400;">WBUR CitySpace</span></a><span style="font-weight: 400;"> is WBUR’s state-of-the-art multimedia venue that opened in February 2019 hosting a wide array of events, such as </span><span style="font-weight: 400;">live podcasts, stage performances, comedy events, screenings, and more. This summer we </span><span style="font-weight: 400;">analyzed the revenue from previous events, surveyed the audience, developed event pricing models, and tested donation asks at live events.</span> <span style="font-weight: 400;">If your station hosts events, has an event space, or is considering hosting community events, this series is for you.</span></p>
+<blockquote><p><i><span style="font-weight: 400;">[I’m Sarah Barden, a BizLab Summer Fellow investigating revenue streams for WBUR CitySpace. I just graduated from a dual degree program between <a href="https://www.wellesley.edu/">Wellesley College</a> and <a href="http://www.olin.edu/">Olin College</a> studying mathematics, engineering, and user experience design, and I am starting a Master’s in </span></i><a href="https://mem.dartmouth.edu/"><i><span style="font-weight: 400;">Engineering Management at Dartmouth</span></i></a><i><span style="font-weight: 400;"> this fall.]</span></i></p></blockquote>
+<p><img loading="lazy" class="alignright wp-image-2004" src="/wp-content/uploads/2019/07/post1image1-300x200.jpg" alt="Image of CitySpace." width="368" height="245" srcset="/wp-content/uploads/2019/07/post1image1-300x200.jpg 300w, /wp-content/uploads/2019/07/post1image1-768x512.jpg 768w, /wp-content/uploads/2019/07/post1image1-1024x682.jpg 1024w, /wp-content/uploads/2019/07/post1image1-930x620.jpg 930w, /wp-content/uploads/2019/07/post1image1.jpg 1700w" sizes="(max-width: 368px) 100vw, 368px" /></p>
+<h3><b><i>What is WBUR CitySpace?</i></b></h3>
+<p><span style="font-weight: 400;">Since opening five months ago, WBUR CitySpace has held 80+ events, including WBUR programming and partner programming with organizations like </span><a href="https://thewilbur.com/"><span style="font-weight: 400;">The Wilbur</span></a><span style="font-weight: 400;"> (a local, independently-owned venue focused on live comedy) and </span><a href="https://themoth.org/"><span style="font-weight: 400;">The Moth</span></a><span style="font-weight: 400;"> (a non-profit holding </span><span style="font-weight: 400;">theme-based storytelling events)</span><span style="font-weight: 400;">. The space can seat up to 270 people in a flexible space that includes an open lobby. Exterior glass walls invite curious pedestrians to watch the events and listen on the benches while live audio is streamed outside.</span></p>
+<h3><b><i>Potential Revenue Ideas</i></b></h3>
+<p><span style="font-weight: 400;">When I arrived at the beginning of June, CitySpace had launched its events and the team was looking for insights into making more revenue. Ticket sales were currently the only audience revenue stream, so the team wanted to explore options beyond ticket sales. </span><span style="font-weight: 400;">I proposed several different areas for exploration this summer: asking for donations from the audience, adjusting ticket prices, membership options for CitySpace, and selling merchandise. </span></p>
+<h3><em><b>Understanding the CitySpace audience</b></em></h3>
+<p><span style="font-weight: 400;">First, however, we needed to understand the CitySpace audience to help properly set up experiments. </span><span style="font-weight: 400;">The team had ticket buyer data available for events through our ticketing system, </span><a href="https://www.ovationtix.com/"><span style="font-weight: 400;">OvationTix</span></a><span style="font-weight: 400;"> (this data doesn’t include any partner events where they handle their own ticketing). </span><span style="font-weight: 400;">I also created a survey to capture more data than the ticket sales from OvationTix. Some of the survey data is shared below, but the next post will go into detail on our survey results! </span>I analyzed these two sources of data to understand:</p>
+<p><strong><em>Is the audience loyal to WBUR or not? Are they donors? Listeners? Not aware of WBUR?</em></strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If the audience already donates to WBUR, are they be willing to donate also to CitySpace?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If the audience is made up of WBUR listeners who do not donate, will attending CitySpace events encourage them to donate to WBUR or CitySpace? </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If the audience is unfamiliar with WBUR, could a separate CitySpace events membership make most sense for serving this unique audience.</span></li>
+</ul>
+<p><strong><em>Do people like CitySpace events? Are they returning to multiple events?</em></strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can we increase the number of repeat attendees with a paid events membership?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">How can we encourage people to buy tickets to future events with ticket packages and come back?</span></li>
+</ul>
+<h3><b><i>Are event attendees public radio donors?</i></b></h3>
+<p><img loading="lazy" class="wp-image-2013 alignright" src="/wp-content/uploads/2019/07/image2-287x300.png" alt="" width="237" height="247" srcset="/wp-content/uploads/2019/07/image2-287x300.png 287w, /wp-content/uploads/2019/07/image2.png 722w" sizes="(max-width: 237px) 100vw, 237px" /></p>
+<p>On average, we found that 70% of ticket buyers are not WBUR donors. While some events attracted loyal WBUR listeners, many events were attracting outside audiences. With just qualitative observations to reflect on previously, this 70% number was surprising to the team. While they expected a large number of non-donors, they didn’t realize that almost three-quarters of ticket buyers were not “loyal” to WBUR.</p>
+<p><i>WBUR has different membership levels for those who donate to the station: (1) </i><i><span style="font-weight: 400;">Major donor, a one time gift more than $1,500, (2) </span></i><i><span style="font-weight: 400;">Sustainer, a monthly donation of any amount, and (3) </span></i><i><span style="font-weight: 400;">Member, a one time donor of any amount less than $1,500.</span></i></p>
+<p><span style="font-weight: 400;">Although the average is 70%, this percentage varies depending on the type of event. </span><span style="font-weight: 400;">Knowing which events attract which types of audiences can help set audience and attendance goals. For example, is your event for engaging and interacting with donors, or is it to attract new general public audiences? Ticket pricing and marketing should align to these goals. Events like our </span><a href="https://www.wbur.org/events/465181/the-handmaids-aria-how-an-iconic-novel-became-an-opera"><span style="font-weight: 400;">The Handmaid’s Aria</span></a><span style="font-weight: 400;"> attracted many WBUR donors than average because the team targeted marketing efforts at donors and the topic aligned to our listeners’ interest in the author Margaret Atwood. We knew the event would sell out quickly, so took this strong match of interest from our existing donors as an opportunity to charge a higher ticket price ($50). For the event </span><a href="https://www.wbur.org/events/445081/tackling-gun-violence"><span style="font-weight: 400;">Tackling Gun Violence</span></a><span style="font-weight: 400;">, our goal was to attract a diverse, community-focused audience, so we kept ticket prices low ($10) and marketed broadly across the city, without specifically targeting donors in our marketing. The resulting audience reflects this with few donors in attendance. </span></p>
+<p><a href="/wp-content/uploads/2019/07/Member-Ratios-at-3-Events.png"><img loading="lazy" class="alignnone wp-image-2021 size-large" src="/wp-content/uploads/2019/07/Member-Ratios-at-3-Events-1024x475.png" alt="" width="750" height="348" srcset="/wp-content/uploads/2019/07/Member-Ratios-at-3-Events-1024x475.png 1024w, /wp-content/uploads/2019/07/Member-Ratios-at-3-Events-300x139.png 300w, /wp-content/uploads/2019/07/Member-Ratios-at-3-Events-768x356.png 768w, /wp-content/uploads/2019/07/Member-Ratios-at-3-Events.png 1320w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>
+<p>&nbsp;</p>
+<h3><b><i><a href="/wp-content/uploads/2019/07/image-4.png"><img loading="lazy" class="wp-image-2012 alignright" src="/wp-content/uploads/2019/07/image-4-300x266.png" alt="" width="295" height="262" srcset="/wp-content/uploads/2019/07/image-4-300x266.png 300w, /wp-content/uploads/2019/07/image-4-768x681.png 768w, /wp-content/uploads/2019/07/image-4.png 918w" sizes="(max-width: 295px) 100vw, 295px" /></a>Are event attendees public radio listeners? </i></b></h3>
+<p><span style="font-weight: 400;">In our post-event survey, we asked “Had you heard of WBUR before today?” and we found that 46% of the survey respondents are WBUR listeners, but not donors. This showed that although most attendees are not donors, many of them are still listeners (42% + 46% = 88%). The survey showed a slight difference in non-donor numbers: 58% of survey respondents were non-donors as opposed to 74% non-donors from the ticket data. </span></p>
+<p>&nbsp;</p>
+<h3><b><i>Do event attendees come to multiple events?</i></b></h3>
+<p><span style="font-weight: 400;">To sense if people are enjoying the new WBUR event space, I used our OvationTix ticket buyer data to see how many people bought tickets to multiple, different events and then if they attended them.</span></p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><b># of ticket buyers who</b><b> bought</b><b> </b></td>
+<td><b># of ticket buyers who </b><b>attended</b></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Total events</span></td>
+<td><span style="font-weight: 400;">3728</span></td>
+<td><span style="font-weight: 400;">2450</span></td>
+</tr>
+<tr>
+<td><strong>2 or more events</strong></td>
+<td><strong>420</strong></td>
+<td><strong>215</strong></td>
+</tr>
+<tr>
+<td>%</td>
+<td>11.3%</td>
+<td>8.8%</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Of all ticket buyers, 420 bought tickets to 2+ events, but only 215 of those ticket buyers attended 2+ events. This means that 11.3% of ticket buyers bought tickets to at least two event and 8.8% of ticket buyers have </span><i><span style="font-weight: 400;">attended </span></i><span style="font-weight: 400;">at least two events.</span></p>
+<p><span style="font-weight: 400;">(This only counts ticket buyers and does not count their guests, since we don’t know who their guests are each time. If we add in ticket buyers’ guests, the 215 attendees would increase, but we can’t know for sure that ticket buyers bring the same guests every time.)</span></p>
+<p><span style="font-weight: 400;">Now that CitySpace is reaching its sixth month of operation, the number of repeat attendees should begin to increase, and these percentages will be continued to be tracked. In the first few months, the low number of repeat attendees was promising in terms of new audience building. CitySpace was reaching new people with each event and building a large email list to increase awareness.</span></p>
+<h3><b><i>Summary</i></b></h3>
+<p><span style="font-weight: 400;">Overall, this analysis revealed several potential revenue opportunities to test for WBUR CitySpace: </span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">With 70% of event attendees being non-donors, CitySpace can explore ways to convince these audience members to donate to WBUR CitySpace programming, supporting future events.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For the 12% of event attendees who are not listeners or haven’t even heard of WBUR, there are fresh opportunities for increasing WBUR’s brand awareness, which can increase later ticket sales, listening audience, and donations to WBUR and CitySpace.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">With few repeat attendees, CitySpace can test different membership models now to encourage buying more tickets, through ticket packages or topic-based memberships.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collecting and tracking this data on a repeat basis can help set goals for CitySpace, for example raising repeat attendees to a certain percent, or setting a revenue goal.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Understanding your audience is an important step to identifying potential revenue streams. Factors that influence why people come to events affect how many people buy tickets, if they will come back and buy more tickets, or if they will consider donating. Are they coming because of your station? Do they care about supporting the station? Or are they coming for the topic or performer and wouldn’t care who hosted it? If you have information like audience data, donor data, emailing lists, or ticket sales, understanding your audience is the first step toward brainstorming potential revenue streams.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
